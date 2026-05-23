@@ -1,13 +1,13 @@
-# keep root clean — strategy docs live in /docs
-FRAMEWORK.md
-PITCH.md
-DEMO.md
-TASKS.md
-QA.md
-CASEHACKS-2026-BRIEF.md
-CASEHACKS-2026-PROBLEM.md
-case_package.txt
-_case_HACKS_Participant_Case_Package_2026.02.pdf
+# keep root clean — strategy docs live in /docs (patterns root-anchored with leading slash)
+/FRAMEWORK.md
+/PITCH.md
+/DEMO.md
+/TASKS.md
+/QA.md
+/CASEHACKS-2026-BRIEF.md
+/CASEHACKS-2026-PROBLEM.md
+/case_package.txt
+/_case_HACKS_Participant_Case_Package_2026.02.pdf
 
 # case materials are competition-distributed — keep private
 docs/source/
