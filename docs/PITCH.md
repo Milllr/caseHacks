@@ -1,256 +1,201 @@
-# PITCH.md — Scotia HomeStart, 10-Minute Deck
+# PITCH.md — Scotia HomeStart, 8-minute deck
 
-> **Strict timing target: 9:30 spoken (30s buffer). 14 slides, sentence-titled, banker-readable.**
-> Presenter assignment is suggested in brackets — finalize at the 6-hour mark.
-> Numbers in **bold** are the load-bearing claims; every one is cited in the appendix.
+> **Restructured against the [case]Hacks Product Thinking 101 judge rubric.**
+> Open with the user, not the tech. Show the cuts. Demo the magic moment. End on the user.
+> **Total spoken: 8:00 · buffer: 2:00 · Q&A: 5:00.**
+> Numbers in **bold** are load-bearing — every one is sourced in the appendix and `FRAMEWORK.md`.
 
 ---
 
-## Slide 1 — Hook (0:00–0:35) [Presenter A]
+## Slide 1 — Meet Maxine (0:00–0:30) [Presenter A]
 
-**Slide title:** *Scotia is the bank for 18-to-34 Canadians' chequing accounts. Wealthsimple is the bank for their futures.*
+**Slide title:** *Meet Maxine.*
 
 **On the slide:**
-- One visual: a split panel. Left side, Scotia logo over "chequing." Right side, Wealthsimple logo over "investing."
-- One stat, bottom right: **Wealthsimple AUA $124.8B (Q1 2026), up 71% YoY. 1 in 5 Canadians 18-40 uses Wealthsimple.**
+- One column. Big serif headline: "Maxine."
+- Underneath, plain text: *26. Scotia chequing customer since 2022. $4,800 in monthly deposits. Last February she opened her FHSA — at Wealthsimple. Next February, she'll move her chequing too.*
+- No tech, no logos beyond the brand strip, no stats.
 
-**Spoken (35 sec):**
-> "Good [morning/afternoon]. We're Team [X]. In the last 12 months Wealthsimple grew their assets under administration by **71 percent** — to **$124.8 billion**, three years ahead of their own plan. They now serve **one in five Canadians aged 18 to 40.** For most of those Canadians, Scotiabank is still their primary chequing relationship. Today we're closing that gap — one first home, one first investment at a time — and we have an 18-month window to do it."
+**Spoken (30 sec):**
 
----
+> "We're Team [X]. This is Maxine. She's 26. She's been a Scotia chequing customer since 2022. Every month, $4,800 in deposits land in her Scotia account. Last February, she opened her first investment account. Not at Scotia. At Wealthsimple. Next February, she'll move her chequing too. This presentation is about why she did that, and what we do about it."
 
-## Slide 2 — The reframe (0:35–1:45) [Presenter A]
-
-**Slide title:** *The case asks whether young Canadians lack confidence or capital. The data says the question is wrong.*
-
-**On the slide (two-column layout):**
-
-Left column (the "consensus" framing):
-- 45% not confident in investment knowledge
-- 43% uncertain where to begin
-- 30% have no investment plan
-- → "Education / confidence is the gap"
-
-Right column (the contradicting evidence):
-- 61% of non-investors cite **lack of funds** as their #1 barrier
-- 84% of 18-34s have negative emotions about RRSP contributions
-- 1 in 5 already invest *with Wealthsimple* — they figured it out fine
-- → "The cohort is bimodal — and confidence is downstream of access"
-
-Bottom of slide, in heavier weight:
-**The real gap: Scotia is absent at the moment of decision.**
-
-**Spoken (70 sec):**
-> "Almost every team in this room is going to tell you the problem is young investor confidence. That's what the case says. But look at what the data *also* says. Sixty-one percent of non-investors cite lack of funds, not lack of knowledge, as their primary barrier. Eighty-four percent of Canadians aged 18 to 34 report *negative emotions* about RRSP contributions — the highest of any age group. And one in five Canadians aged 18 to 40 already invest — they're just doing it on Wealthsimple. So confidence isn't the bottleneck. The cohort is *bimodal*: half are activated investors who chose Wealthsimple over Scotia, half haven't started anywhere. The real gap isn't confidence. **The real gap is that Scotiabank is absent at the moment the decision gets made.** And we've identified one moment — inside the next 18 months — where Scotia can change that."
+**Why this slide:** *Tells the problem story before showing the tech. Judges' Reward #1.*
 
 ---
 
-## Slide 3 — The deepest pain point (1:45–2:30) [Presenter A]
+## Slide 2 — Her painful moment is one sentence (0:30–1:30) [Presenter A]
 
-**Slide title:** *84% of Canadians 18-34 report negative emotions about RRSP contributions. The highest of any age group.*
+**Slide title:** *"Every February I open Scotia's app to see my T4 deposit, and I see nothing about what to do with it — so I open Wealthsimple instead."*
 
 **On the slide:**
-- A bar chart: % reporting negative emotions about RRSP contributions, by age cohort. 18-34: **84%.** 35-54: ~65%. 55+: ~40%. (Source: Edward Jones / Pollara, February 2026.)
-- A second stat, smaller: only **36%** of adults 18-34 feel confident in basic retirement-savings mechanics. (Same source.)
-- A one-line takeaway: *"You cannot lead with RRSP. You have to lead with a product this cohort feels good about — and there is exactly one."*
-
-**Spoken (45 sec):**
-> "This is the chart no one is going to show you today. Eighty-four percent of 18-to-34s have *negative* emotions about RRSP contributions. The highest of any age group, and the gap is widening. This matters because every retirement-savings product Scotia leads with is anchored to RRSP. We're proposing the inverse. There is exactly one Canadian registered account that this cohort feels *positive* about. It's the First Home Savings Account. And it just so happens to be the one with the strongest closed loop to Scotia's mortgage book."
-
----
-
-## Slide 4 — Market size (2:30–3:30) [Presenter B]
-
-**Slide title:** *484,320 Canadians opened FHSAs in year one. Median contributor maxed it at $8,000. This is the highest-intent investor account in the country.*
-
-**On the slide (three stacked rows):**
-
-- **TAM:** ~6-7M FHSA-eligible 18-34 Canadians. ~1.2-1.5M new FHSAs expected to open over the 18-month horizon nationally.
-- **SAM:** ~1.3-1.5M Scotia 18-34 chequing customers. ~50% are unactivated investors. Conservative 15-20% in-app activation rate → **100K-150K Scotia FHSA activations.**
-- **SOM (year-one pilot, Feb-Mar 2027):** 3-market launch (Toronto, Vancouver, Montreal) → **30K-50K activations = $240M-$400M new AUA**, plus 5-year mortgage attach pipeline of 25-40%.
-
-Bottom anchor stat: *Wealthsimple did $124.8B in 12 years. We're proposing $300M+ in 12 months — and the mortgage tail is the real prize.*
+- The sentence is the slide. Serif type, large, in quotes.
+- Below, three small stats in a strip:
+  - **84%** of 18–34 Canadians have negative emotions about RRSP contributions *(Edward Jones, Feb 2026)*
+  - **35%** of all FHSAs opened in Canada are at Wealthsimple *(Katchen, Dec 2025)*
+  - **484K** Canadians contributed to FHSAs in year one — median maxed at **$8,000** *(StatCan, Apr 2025)*
 
 **Spoken (60 sec):**
-> "Quick market math. In FHSA's inaugural year, **484,320** Canadians contributed, and the median contributor — *the median, not the top quartile* — maxed it out at $8,000. People who open FHSAs use them. We size Scotia's addressable base at 1.3 to 1.5 million 18-to-34 chequing customers, half of them unactivated. At a conservative in-app activation rate of 15 to 20 percent over 18 months, that's **100,000 to 150,000 FHSA activations.** Our launch-year pilot targets 30,000 to 50,000 across three urban markets — that's $240 to $400 million in new AUA in year one, before the mortgage tail. And the mortgage tail is where this gets interesting."
+
+> "That is Maxine's painful moment in one sentence. Now look at the data. Eighty-four percent of 18-to-34 Canadians have *negative* emotions about RRSP contributions — the highest of any age group. Thirty-five percent of all FHSAs opened in Canada since launch are at Wealthsimple. Four hundred and eighty-four thousand Canadians contributed to FHSAs in the first year, and the *median* contributor — not the top quartile, the median — maxed it out at $8,000. So the case's 'young Canadians lack confidence' framing is wrong. They are not unconfident. They are not under-capitalized. **They are choosing Wealthsimple because Scotia is absent at the moment they decide.**"
+
+**Why this slide:** *Real user, real pain, in one sentence. Inoculates against "no real user" loss mode.*
 
 ---
 
-## Slide 5 — Why now (3:30–4:30) [Presenter B]
+## Slide 3 — And on Thursday, Wealthsimple announced this. (1:30–2:30) [Presenter B]
 
-**Slide title:** *Three clocks are running. We have to ship inside all of them.*
+**Slide title:** *48 hours ago, Wealthsimple announced "Wealthsimple Takes Over Your Life."*
 
-**On the slide (three vertical timelines, all collapsing toward March 2027):**
-
-1. **Wealthsimple clock.** $52B → $100B → $124.8B in 18 months. Adding Group FHSA (May 2026), Wealthsimple Banking for Families (also May 2026). Trajectory: cross Scotia AUA scale within 4-5 years if uncontested.
-
-2. **Open Banking clock.** Phase 1 (read-access) scheduled 2026; Phase 2 (write-access) mid-2027. Both inside our 18-month horizon. **Scotia's transaction-data visibility advantage erodes during our build window.** Use-it-or-lose-it.
-
-3. **RRSP/FHSA season clock.** February 28-March 2, 2027 is the next behavioral peak. Miss it and we lose 12 months of acquisition.
-
-Bottom: *Three deadlines. One product. Eighteen months.*
+**On the slide:**
+- Big quote, top: *"Wealthsimple Takes Over Your Life."* — May 21, 2026 event campaign name
+- Three product tiles, in a row:
+  - **Households (now)** — single dashboard for chequing, investments, mortgages, group RRSPs across all institutions
+  - **Kids accounts (Fall 2026)** — parent-paid interest, any-age signup, converts to adult Wealthsimple at 18
+  - **Authorized Traders (Summer 2026)** — family members trade on each other's accounts
+- One stat, bottom: **320,000 Canadians** registered for the livestream.
 
 **Spoken (60 sec):**
-> "Three clocks. Wealthsimple's growth clock — they're growing 71 percent a year, and they just launched Wealthsimple for Business and Wealthsimple Banking for Families this month. The Open Banking clock — Canada's Consumer-Driven Banking Act becomes operational inside our horizon, which means the *data advantage* Scotia has on its own customers' transactions is about to erode. And the tax-season clock — RRSP and FHSA deadline is March 2nd, 2027, and that's the one calendar moment of the year when this cohort is *thinking about* investing without us prompting them. If we ship in time for that window, we own a generation. If we don't, Wealthsimple does."
+
+> "Two days ago, Wealthsimple held an event titled — and I'm quoting their own marketing — 'Wealthsimple Takes Over Your Life.' Three hundred and twenty thousand Canadians registered for the livestream. They announced three products. **Wealthsimple Households**, available *now*, is a single dashboard for your entire family's chequing, investments, mortgages, RRSPs — across all institutions. **Kids accounts**, launching Fall 2026, give children of any age a Wealthsimple chequing account that converts to an adult Wealthsimple account at 18. **Authorized Traders**, this summer, let family members trade on each other's accounts. The case asks about young Canadians and investing. The actual question is whether Scotia is in the room when a generation decides who their family's bank is — for the next forty years. Wealthsimple gave their answer on Thursday."
+
+**Why this slide:** *The "why now" no other team will have. Forty-eight hours old. Frames the urgency in Wealthsimple's own words.*
 
 ---
 
-## Slide 6 — The solution and the moat (4:30–5:30) [Presenter C]
+## Slide 4 — Our north star (2:30–3:00) [Presenter A]
 
-**Slide title:** *Scotia HomeStart. One-tap FHSA activation, in the Scotia app, at tax time. The moat is the mortgage book.*
+**Slide title:** *We help Maxine open her FHSA in 90 seconds, inside the Scotia app, at tax time — and start her runway to a Scotia mortgage.*
 
-**On the slide (two halves):**
+**On the slide:**
+- The sentence is the slide. Centered. Large.
+- Tiny callout: *(taped to the laptop)*
 
-Left half — the product: "Scotia HomeStart turns chequing customers into FHSA investors in **90 seconds**, with the contribution amount pre-filled from their transaction history, the KYC pre-completed from their banking profile, and the recommended portfolio (Scotia Essentials Balanced) suitability-pre-assessed."
+**Spoken (30 sec):**
 
-Right half — why Wealthsimple cannot copy this:
+> "Our north star. One sentence. Taped to the laptop. *We help Maxine open her FHSA in 90 seconds, inside the Scotia app, at tax time — and start her runway to a Scotia mortgage.* Everything we built — and everything we cut — flows from that sentence."
 
-| Wealthsimple lacks | Scotia owns |
+**Why this slide:** *The "We help [user] achieve [outcome]" north star the playbook explicitly asks for.*
+
+---
+
+## Slide 5 — The magic moment (3:00–4:30) [Presenter C, owns the prototype]
+
+**Slide title:** *Scotia HomeStart, in 90 seconds.*
+
+**On the slide:**
+- The interactive prototype is the slide. iPhone frame, live click-through.
+- Below the phone, four mini-captions for each beat:
+  1. *Tax-season prompt — pre-filled from her deposit history*
+  2. *Three sliders — KYC inherited from her banking profile*
+  3. *One tap — FHSA open, $1,920 tax savings locked in*
+  4. *Home Runway — the moat reveals itself*
+
+**Spoken (90 sec):**
+
+> "This is the entire product. Watch.
+>
+> [tap screen 1] Maxine opens the Scotia app in February. She sees a personalized prompt: *'You could save $1,920 on this year's taxes.'* The number is calculated from her actual deposit history — only Scotia can do this today, because only Scotia can see her primary chequing account.
+>
+> [tap screen 2] She taps. Three sliders — when do you want a home, how aggressive, how much to start. KYC fields are greyed out — already on file with Scotia. Suitability is pre-baked at the firm level via Scotia Essentials Balanced. She doesn't fill out a form. She doesn't upload ID. She doesn't pick a portfolio.
+>
+> [tap screen 3] One tap. FHSA open. Tax savings: $1,920. And — *this is the moment* — the Home Runway dashboard appears. FHSA balance climbing toward year five. And this card: **Estimated Scotia mortgage pre-approval: $485,000.**
+>
+> **That card cannot exist anywhere else.** Wealthsimple Households can aggregate Maxine's FHSA balance — but they cannot show this card. Mortgages are originated, not aggregated. Ninety seconds, one tap, one card. That is the whole pitch."
+
+**Why this slide:** *Demos the magic moment. One screen, one number, one reveal. Judges' Reward #3.*
+
+---
+
+## Slide 6 — The cuts we made (4:30–5:30) [Presenter D]
+
+**Slide title:** *What we chose not to build — and why.*
+
+**On the slide:** a clean two-column table.
+
+| We chose NOT to | Because |
 |---|---|
-| Mortgage book | Third-largest Canadian residential mortgage originator |
-| Primary-chequing data | Real-time first-party view |
-| Branch advisor network | National multilingual advisor network |
-| Closed-loop FHSA→Mortgage | Closed loop in 5 years, by design |
+| Build a chatbot | Wealthsimple already has one; the differentiator is structural, not conversational |
+| Reskin Scotia Smart Investor | It's not in MoneySense's 2026 robo list; polishing the wrong product loses |
+| Launch a TikTok campaign | 82% of 18-24s are already there; bank cannot credibly enter, CIRO is warning |
+| Add crypto to iTRADE | Wealthsimple Crypto is CIRO-registered; not Scotia's lane |
+| Bolt onto Scene+ | Cross-sell theater; dilutes the everyday-spend hook |
+| Solve for "all 18-34" | Builds for everyone = no one; we picked Segment B explicitly |
 
 **Spoken (60 sec):**
-> "Scotia HomeStart. The user is Maxine — 26 years old, Scotia chequing customer since 2022, no FHSA on file, $4,800 in monthly deposits. On February 15, 2027, she opens the Scotia app, sees a personalized card — '*Maxine, you could save $1,920 on this year's taxes.*' Three sliders, KYC auto-populated, one tap. FHSA open in 90 seconds. Default $200 a month auto-contribute. Tax savings calculated and displayed. Five years later: a Scotia mortgage. **Wealthsimple structurally cannot offer the last step.** They have no mortgage book. They have no branch network. Even after Open Banking gives them read-access to Scotia chequing data, they cannot close this loop. The activation is the wedge. **The mortgage is the moat.**"
+
+> "Five things we chose *not* to build. We chose not to build a chatbot because Wealthsimple already has one — the differentiator is structural, not conversational. We chose not to reskin Scotia Smart Investor because it's not even in MoneySense's 2026 robo-advisor list — polishing the wrong product loses. We chose not to do a TikTok campaign because the bank cannot credibly enter the channel CIRO is currently warning about. We chose not to bolt onto Scene+ — bankers in this room will recognize cross-sell theater when they see it. And we chose not to solve for *all* 18-to-34s — we picked the Capital-Constrained Curious cohort, ~58% of the demographic, because they are the largest group Scotia structurally owns through chequing. **One product. One moment. One user. One demo.** That is the only way this ships in 18 months."
+
+**Why this slide:** *Shows the "why behind cuts" the rubric explicitly rewards. Judges' Reward #2.*
 
 ---
 
-## Slide 7 — Prototype screen 1 (5:30–6:00) [Presenter C]
+## Slide 7 — Why Wealthsimple Households can't kill this (5:30–6:30) [Presenter B]
 
-**Slide title:** *Screen 1 — The tax-season prompt on the Scotia app home screen.*
+**Slide title:** *Aggregation is not origination. The mortgage is the moat.*
 
 **On the slide:**
-- Full-bleed screenshot of the Scotia mobile app home screen, with the HomeStart suggestion tile prominent.
-- Annotation callouts: (a) personalized name, (b) personalized $1,920 tax savings figure, (c) "Why we're showing you this" transparency link, (d) one-tap CTA.
+- Side-by-side: a Wealthsimple Households mock-up (left) vs. the Scotia HomeStart Home Runway dashboard (right).
+- On the Wealthsimple side, the mortgage row reads: *"View mortgage from Scotia: $342,500 balance"* — a read-only aggregated line.
+- On the Scotia side, the same card we showed in the demo: **Estimated Scotia mortgage pre-approval: $485,000** with a "Talk to a Scotia advisor →" CTA.
+- One line at bottom: *Wealthsimple has been in market for 12 years and still does not originate mortgages at scale. OSFI B-20/B-21 requires a deposit funding base + capital they don't have.*
 
-**Spoken (30 sec):**
-> "Screen one — what Maxine sees. The tile is personalized: her name, her tax-savings estimate, calculated from her actual deposit history. The transparency link at the bottom is a deliberate FCAC-friendly design choice — we tell her *why* we're showing her this. No dark patterns. One tap to start."
+**Spoken (60 sec):**
 
----
+> "This is the moat slide. On the left, Wealthsimple Households. They can *see* Maxine's Scotia FHSA, her Scotia mortgage, her Scotia chequing — all in one dashboard. That is real. But all they can do is *show* it. On the right, the Scotia HomeStart dashboard — same data, plus the one card Wealthsimple cannot show: a projected Scotia mortgage pre-approval. Wealthsimple has been operating for twelve years and still does not originate mortgages at scale, because mortgage origination requires OSFI B-20 and B-21 compliance, a deposit funding base, and capital that they structurally don't have. Aggregation is not origination. **The activation is the wedge. The mortgage is the moat.**"
 
-## Slide 8 — Prototype screen 2 (6:00–6:30) [Presenter C]
-
-**Slide title:** *Screen 2 — 90 seconds to open an FHSA. Three sliders. One consent.*
-
-**On the slide:**
-- Mockup of the onboarding flow — three sliders (timing, risk, contribution amount), greyed-out auto-filled KYC fields beneath, single CTA button.
-- Compliance footer visible: "Recommended portfolio: Scotia Essentials Balanced. Suitability assessed. CDIC/CIPF protections apply. Subject to NI 31-103."
-
-**Spoken (30 sec):**
-> "Screen two — the activation flow. Three sliders, KYC pre-filled from her Scotia banking profile, one consent screen. The default portfolio is Scotia Essentials Balanced — an existing managed product with firm-level suitability. We're not inventing a new compliance pathway; we're using Scotia Smart Investor's infrastructure under the hood."
+**Why this slide:** *Directly addresses the most dangerous Q&A question proactively, inside the deck.*
 
 ---
 
-## Slide 9 — Prototype screen 3 (6:30–7:00) [Presenter C]
+## Slide 8 — The business case in one slide (6:30–7:30) [Presenter D]
 
-**Slide title:** *Screen 3 — The Home Runway. Where the moat shows up.*
+**Slide title:** *$300M+ AUA in year one. CAC $30. Break-even at 0.6%.*
 
-**On the slide:**
-- Mockup of the post-activation dashboard: FHSA balance, tax savings YTD, milestone path to "Your Home," and a card showing *estimated mortgage pre-approval band* updated as the FHSA grows.
-
-**Spoken (30 sec):**
-> "Screen three — the dashboard after activation. FHSA balance, tax savings, and *this is the moat-visible card:* an estimated Scotia mortgage pre-approval band that updates as her contributions grow. At month 12, she gets an invitation to talk to a Scotia advisor. **No Wealthsimple dashboard ends at a mortgage.** This one does."
-
----
-
-## Slide 10 — Business case (7:00–8:00) [Presenter D]
-
-**Slide title:** *CAC ~$30. Blended 5-year LTV ~$5,000-$8,000. Break-even activation rate 0.6%.*
-
-**On the slide (a one-line model):**
+**On the slide:** a single funnel with four numbers.
 
 | Line | Value |
 |---|---|
-| Eligible Scotia 18-34 chequing customers | ~1.3M-1.5M |
-| Pilot reach (3 cities) | ~750K |
-| Conservative activation rate (year 1) | 5% (downside) / 15% (base) |
-| Year-1 activations | 37K (downside) / 110K (base) |
-| Median contribution (FHSA 2023 data) | $8,000 |
-| Year-1 new AUA, downside / base | $300M / $880M |
-| 5-year mortgage attach rate | 25-40% |
-| Blended 5-yr LTV per activated customer | $5,000-$8,000 |
-| CAC | $15-$40 |
-| LTV : CAC | ~150x |
+| 18-34 Scotia chequing customers, 3-city pilot reach | ~750,000 |
+| Conservative activation rate (year one) | 5% (downside) / 15% (base) |
+| Median FHSA contribution (2023 actual) | **$8,000** |
+| Year-one new AUA, downside / base | **$300M / $880M** |
+| 5-year blended LTV per activated customer | **$5,000 – $8,000** |
+| CAC (in-app surfacing, existing customer) | **~$30** |
+| LTV : CAC | **~150×** |
 | Break-even activation rate | **0.6%** |
+| Pilot ask | **$4M** |
 
 **Spoken (60 sec):**
-> "The unit economics. Customer acquisition cost is roughly $30 — we're using the Scotia app, no media spend. Blended five-year LTV is $5,000 to $8,000 per activated customer, comprising FHSA management fees, cash-sleeve float, and the mortgage attach economics. **The break-even activation rate is six-tenths of one percent.** We can be wrong about activation by an order of magnitude and the business case still works. The question isn't whether this generates ROI — the question is how aggressively we ship it."
+
+> "Quick math. We reach 750,000 Scotia 18-to-34 chequing customers across three pilot cities. Conservative base activation: 15%. Median FHSA contribution from the 2023 CRA data: $8,000 — maxed out. That's $880 million in new AUA in year one, or $300 million on the downside case. CAC is roughly $30 because the channel is the app the customer already opens 18 times a month. Blended five-year LTV — including the mortgage attach at 25-40% over five years — is between $5,000 and $8,000 per customer. **Our break-even activation rate is six-tenths of one percent.** The model survives a 10× downside. We're asking for a $4 million pilot."
+
+**Why this slide:** *One slide with banker-readable numbers. No bullshit. Defensible from any angle.*
 
 ---
 
-## Slide 11 — Regulatory feasibility (8:00–8:45) [Presenter D]
+## Slide 9 — End on Maxine (7:30–8:00) [Presenter A]
 
-**Slide title:** *Every step uses existing Scotia regulatory infrastructure. Nothing here is novel.*
-
-**On the slide (table):**
-
-| Regime | How HomeStart complies |
-|---|---|
-| **NI 31-103 / CIRO** | Routes to Scotia Capital Inc. / iTRADE. Firm-level suitability via Essentials Balanced managed portfolio. Customer-level KYC inherited from banking profile, confirmed at activation. |
-| **PIPEDA** | Primary-banking consent covers in-app suggestions. Explicit secondary consent at FHSA activation. Opt-out from existing app settings. |
-| **FCAC** | Standard Scotia complaint regime. Cooling-off period and FCAC escalation info on confirmation screen. |
-| **OSFI** | No capital impact. FHSA is customer-owned. |
-| **CDIC / CIPF** | Cash sleeve CDIC-eligible; invested sleeve CIPF-covered. Standard Smart Investor disclosure language. |
-| **CRA (FHSA rules)** | First-time-buyer attestation collected. $8K annual / $40K lifetime caps enforced in product logic. 15-year sunset → automatic RRSP rollover. |
-| **CDBA (Open Banking)** | First-party data dependency. Mandatory Big Six participation acknowledged. Product survives Phase 1 launch — competitor replication risk addressed via mortgage moat. |
-
-**Spoken (45 sec):**
-> "Nothing in this regulatory stack is new. NI 31-103 suitability sits in a managed portfolio we already operate. PIPEDA consent is already covered by our banking T&Cs with explicit secondary consent at activation. FCAC complaint-handling uses our existing regime. There is *no capital impact for OSFI* — this is fee revenue, not balance-sheet risk. And on Open Banking — Phase 1 actually *strengthens* our case for shipping now, before competitors can replicate the surfacing logic from outside Scotia's walls."
-
----
-
-## Slide 12 — Implementation roadmap (8:45–9:15) [Presenter D]
-
-**Slide title:** *18 months. Four phases. Pilot in market for tax season 2027.*
-
-**On the slide — a Gantt-style block diagram:**
-
-| Phase | Window | Milestones |
-|---|---|---|
-| **Q1 — Design & Sign-off** | Jun-Aug 2026 | Product spec; compliance sign-off (CIRO, PIPEDA review); integration design with Smart Investor and core banking. |
-| **Q2 — Build & Internal Pilot** | Sep-Nov 2026 | Build complete; internal employee pilot; 500-customer friends-and-family beta in Toronto. |
-| **Q3-Q4 — Soft Launch** | Dec 2026 - Feb 2027 | 3-market soft launch (Toronto, Vancouver, Montreal); tax-time campaign kicks off Jan 15, 2027; FHSA deadline March 2, 2027. |
-| **Y2 — National Rollout + Mortgage Hand-off** | Apr - Nov 2027 | National rollout; integration with mortgage pre-approval flow; Year-2 extension to newcomer cohort via Scotia StartRight. |
-
-**Spoken (30 sec):**
-> "Eighteen months, four phases. Compliance and design through summer. Build in fall 2026. Soft launch into the three highest-density urban markets ahead of tax season 2027. National rollout in year two, when the mortgage pre-approval integration goes live. We've also scoped a Year-2 extension into the newcomer cohort using Scotia StartRight — but that's the second wedge, not the first."
-
----
-
-## Slide 13 — The Ask (9:15–9:30) [Presenter A]
-
-**Slide title:** *Pilot scope: 3 cities, $4M, joint sponsorship by Canadian Banking and Wealth Management.*
+**Slide title:** *Next February.*
 
 **On the slide:**
-- **Pilot budget:** ~$4M (3M engineering, 0.5M campaign, 0.5M compliance/legal).
-- **Sponsorship:** EVP Canadian Banking + Head of Scotia Wealth Management. Product accountability: Scotia Smart Investor product lead.
-- **Success metrics for the pilot:** (1) 30,000+ FHSA activations by April 1, 2027. (2) $240M+ new AUA. (3) 25%+ retention at month 12. (4) 5x NPS lift in 18-34 cohort vs. control.
-- **The one-line ask:** *Give us tax season 2027.*
+- Same plain Maxine layout as Slide 1, but updated: *Maxine, 27. Scotia chequing customer since 2022. Scotia FHSA customer since February 2027. Scotia mortgage applicant, 2031.*
+- Below: *"Next February, when Maxine opens the Scotia app, she'll see something useful for the first time. And she won't have to leave."*
 
-**Spoken (15 sec):**
-> "Four million dollars. Three pilot cities. Two division sponsors. One tax season. Thirty thousand new FHSA investors. The window is open. Thank you."
+**Spoken (30 sec):**
+
+> "We opened on Maxine. We close on her too. Today, Maxine is a Scotia chequing customer who invests at Wealthsimple. With Scotia HomeStart, in February 2027, Maxine is a Scotia chequing customer *and* an FHSA customer. By 2031, she's a Scotia mortgage applicant. By 2042, when her child turns 18, that child's first bank is the same bank that opened their parent's first investment account. **Give us tax season 2027. Thank you.**"
+
+**Why this slide:** *Connects back to the user. Closes on outcome. Judges' Reward #4.*
 
 ---
 
-## Slide 14 — Appendix / Q&A backstop (live during Q&A) [All]
+## Appendix slide — Sources, regulatory walkthrough, sensitivity table
 
-**Slide title:** *Appendix.*
-
-**On the slide (a 3×3 grid of mini-tiles, each linking to a backup detail page in the deck file):**
-
-- Sources & citations
-- Detailed compliance walk-through (NI 31-103, CIRO, FCAC)
-- Open Banking Phase 1 detail
-- Unit-economics sensitivity table
-- Wealthsimple competitive teardown
-- StartRight Year-2 extension
-- KYC inheritance technical detail
-- Brand & UX rationale (why "HomeStart" name)
-- Risk register
-
-**Use during Q&A:** when a judge asks a deep question, navigate to the relevant tile and walk the answer with the supporting detail behind you. Do not over-rely; most answers should be spoken directly with the appendix only as visual support.
+Three tiles, opened only on Q&A demand:
+1. Sources (every cited number with URL).
+2. Regulatory walk (NI 31-103, CIRO, PIPEDA, FCAC, OSFI, CDIC, CDBA).
+3. Unit-economics sensitivity table (5% / 10% / 15% / 25% activation paths).
 
 ---
 
@@ -258,24 +203,43 @@ Right half — why Wealthsimple cannot copy this:
 
 | Section | Window | Total |
 |---|---|---|
-| Hook + reframe + pain | 0:00–2:30 | 2:30 |
-| Market + Why Now | 2:30–4:30 | 2:00 |
-| Solution + Moat | 4:30–5:30 | 1:00 |
-| Demo (3 screens) | 5:30–7:00 | 1:30 |
-| Business case + Regulatory + Roadmap | 7:00–9:15 | 2:15 |
-| Ask | 9:15–9:30 | 0:15 |
-| **Total spoken** | | **9:30** |
+| Meet Maxine + her pain | 0:00–1:30 | 1:30 |
+| Why now — Wealthsimple Households | 1:30–2:30 | 1:00 |
+| North star | 2:30–3:00 | 0:30 |
+| Demo / magic moment | 3:00–4:30 | 1:30 |
+| The cuts | 4:30–5:30 | 1:00 |
+| Moat — aggregation ≠ origination | 5:30–6:30 | 1:00 |
+| Business case | 6:30–7:30 | 1:00 |
+| End on Maxine | 7:30–8:00 | 0:30 |
+| **Total spoken** | | **8:00** |
 
-Buffer: 30 seconds for transitions / inhalations / setup. **Do not over-run.** The case rules cut presenters off at 10:00.
+Buffer: 2 minutes for transitions / inhalations. The case rules cut us off at 10:00 — we land with margin.
 
 ---
 
-## Presenter-handoff notes
+## Presenter handoff
 
-- **A** runs slides 1-3 + slide 13 (the bookends). Most senior, most polished speaker.
-- **B** runs slides 4-5 (the numbers slides). Strongest with math, comfortable defending stats.
-- **C** runs slides 6-9 (solution + demo). Owns the prototype, can walk screens fluently.
-- **D** runs slides 10-12 (business case + regulatory + roadmap). The "banker voice" of the team.
-- Q&A: A leads, others jump in on their slides only.
+- **A** — slides 1, 2, 4, 9 (Maxine bookends + north star). Most polished voice.
+- **B** — slides 3, 7 (the Wealthsimple slides — needs to handle the threat confidently).
+- **C** — slide 5 (the demo, owns the prototype).
+- **D** — slides 6, 8 (the cuts + the business case — the "banker voice").
 
-Final dry run mandatory at T-3 hours. Two timed full run-throughs required before submission. If first dry run exceeds 9:45, cut Slide 7 verbiage and merge into Slide 8 transition.
+Q&A: **A leads**, others jump in on their slides only. **All four memorize the Wealthsimple Households answer in `QA.md`.**
+
+---
+
+## Rubric check
+
+Final pass — every reward boxed, every loss inoculated.
+
+| Rubric item | How this deck answers |
+|---|---|
+| ✅ Tell the problem story | Slide 1 opens on Maxine before any tech |
+| ✅ Show the why behind cuts | Slide 6 is the explicit cut list |
+| ✅ Demo the magic moment | Slide 5 ends on the $485K card |
+| ✅ Connect back to the user | Slide 9 closes on Maxine again |
+| ❌ Solution-first | Tech is only described inside the demo (Slide 5), after the user is established |
+| ❌ No real user | Maxine is named, aged, located, T4'd. Not "Canadians 18-34" |
+| ❌ Over-scoping | One product, three screens, nine slides, eight minutes |
+| ❌ Building for yourselves | Backed by 484K real FHSA contributors and a real Edward Jones survey |
+| ❌ Demo that proves nothing | Magic moment is the $485K card — one number, one reveal, judges remember |

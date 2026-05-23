@@ -133,6 +133,65 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
 .split-pane.red .who { color: var(--scotia-red); }
 .split-pane .lock { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; color: var(--muted); margin-top: 18px; }
 
+/* ---------- Meet Maxine ---------- */
+.maxine { background: white; padding: clamp(56px, 7vw, 100px) 0; border-bottom: 1px solid var(--hair); }
+.maxine-grid { display: grid; grid-template-columns: 1fr 1.4fr; gap: 64px; align-items: center; }
+@media (max-width: 900px) { .maxine-grid { grid-template-columns: 1fr; gap: 32px; } }
+.maxine-portrait {
+  width: 200px; height: 200px; border-radius: 50%;
+  background: linear-gradient(135deg, #FFB199, #FF6B6B);
+  display: grid; place-items: center;
+  color: white; font-family: 'Fraunces', serif; font-weight: 700;
+  font-size: 96px; letter-spacing: -0.04em;
+  box-shadow: var(--shadow-3); margin: 0 auto;
+}
+.maxine-name { font-family: 'Fraunces', serif; font-size: clamp(48px, 5.5vw, 76px); font-weight: 700; letter-spacing: -0.025em; line-height: 1; margin-bottom: 16px; }
+.maxine-bio { font-size: 17px; color: var(--ink-2); line-height: 1.55; max-width: 560px; }
+.maxine-bio b { color: var(--ink); font-weight: 600; }
+.maxine-quote {
+  margin-top: 28px; padding: 22px 26px;
+  background: var(--paper-2); border-left: 3px solid var(--scotia-red);
+  border-radius: 0 var(--radius-m) var(--radius-m) 0;
+  font-family: 'Fraunces', serif; font-style: italic;
+  font-size: clamp(18px, 1.6vw, 22px); line-height: 1.45; color: var(--ink); letter-spacing: -0.005em;
+}
+.maxine-quote .attr { display: block; margin-top: 12px; font-family: 'Inter', sans-serif; font-style: normal; font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: 0.06em; text-transform: uppercase; }
+
+/* ---------- Wealthsimple Households threat banner ---------- */
+.threat-banner { background: #0A0A0A; color: white; padding: clamp(56px, 7vw, 100px) 0; border-top: 1px solid #1a1a1a; border-bottom: 1px solid #1a1a1a; position: relative; overflow: hidden; }
+.threat-banner::before { content: ''; position: absolute; inset: 0; background: radial-gradient(800px 400px at 90% 10%, rgba(236, 17, 26, 0.14), transparent 60%); }
+.threat-banner > .wrap { position: relative; z-index: 1; }
+.threat-banner .eyebrow { color: #FF6B6B; }
+.threat-banner h2 { color: white; }
+.threat-banner h2 .em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; }
+.threat-meta { display: inline-flex; gap: 8px; align-items: center; margin-bottom: 18px; padding: 6px 12px; border-radius: 999px; background: rgba(255, 107, 107, 0.14); color: #FF8B8B; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; border: 1px solid rgba(255, 107, 107, 0.28); }
+.threat-meta .live { width: 6px; height: 6px; border-radius: 50%; background: #FF6B6B; animation: pulse 2s ease-in-out infinite; }
+.threat-quote { margin-top: 36px; font-family: 'Fraunces', serif; font-weight: 600; font-size: clamp(28px, 3.4vw, 44px); line-height: 1.15; letter-spacing: -0.022em; color: white; }
+.threat-quote .red { color: #FF6B6B; }
+.threat-attribution { margin-top: 14px; color: rgba(255,255,255,0.55); font-size: 13px; letter-spacing: 0.04em; }
+.threat-products { margin-top: 56px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+@media (max-width: 900px) { .threat-products { grid-template-columns: 1fr; } }
+.threat-prod { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.10); border-radius: var(--radius-m); padding: 24px; }
+.threat-prod .ts { font-size: 11px; font-weight: 700; letter-spacing: 0.14em; color: #FF8B8B; text-transform: uppercase; }
+.threat-prod h3 { color: white; margin: 10px 0 6px; font-size: 20px; }
+.threat-prod p { color: rgba(255,255,255,0.7); font-size: 13.5px; margin: 0; line-height: 1.5; }
+.threat-footer { margin-top: 40px; padding-top: 28px; border-top: 1px solid rgba(255,255,255,0.08); display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 20px; }
+@media (max-width: 720px) { .threat-footer { grid-template-columns: 1fr; } }
+.threat-footer .insight { color: rgba(255,255,255,0.92); font-size: 16px; line-height: 1.55; }
+.threat-footer .insight b { color: white; font-weight: 700; }
+.threat-footer .stat { font-family: 'Fraunces', serif; font-size: 44px; font-weight: 700; color: white; letter-spacing: -0.025em; line-height: 1; }
+.threat-footer .stat-sub { font-size: 11px; color: rgba(255,255,255,0.55); letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600; margin-top: 4px; }
+
+/* ---------- Cuts section ---------- */
+.cuts { background: var(--paper-2); border-top: 1px solid var(--hair); }
+.cuts h2 .em { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; color: var(--scotia-red); }
+.cuts-grid { margin-top: 48px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+@media (max-width: 720px) { .cuts-grid { grid-template-columns: 1fr; } }
+.cut { padding: 22px 24px 22px 56px; background: white; border: 1px solid var(--hair); border-radius: var(--radius-m); position: relative; }
+.cut::before { content: '✕'; position: absolute; left: 18px; top: 22px; width: 24px; height: 24px; border-radius: 50%; background: var(--scotia-red-soft); color: var(--scotia-red); display: grid; place-items: center; font-weight: 700; font-size: 13px; }
+.cut .what { font-weight: 700; color: var(--ink); font-size: 15px; letter-spacing: -0.012em; }
+.cut .why { color: var(--muted); font-size: 13px; margin-top: 4px; line-height: 1.45; }
+
 .reframe { background: var(--paper-2); border-top: 1px solid var(--hair); border-bottom: 1px solid var(--hair); }
 .reframe-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 64px; align-items: start; }
 @media (max-width: 980px) { .reframe-grid { grid-template-columns: 1fr; gap: 32px; } }
@@ -399,10 +458,10 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
       <span class="brand-name">Scotia HomeStart<span class="sep">·</span><span class="ctx">[case]Hacks 2026</span></span>
     </a>
     <div class="nav-links">
+      <a href="#maxine">Maxine</a>
       <a href="#problem">Problem</a>
-      <a href="#product">Product</a>
       <a href="#demo">Demo</a>
-      <a href="#market">Market</a>
+      <a href="#cuts">Cuts</a>
       <a href="#moat">Moat</a>
       <a href="#ask">Ask</a>
     </div>
@@ -457,6 +516,28 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ==================== MEET MAXINE ==================== -->
+<section class="maxine" id="maxine">
+  <div class="wrap">
+    <div class="maxine-grid">
+      <div class="reveal">
+        <div class="maxine-portrait" aria-hidden="true">M</div>
+      </div>
+      <div class="reveal">
+        <span class="eyebrow muted">Meet the user · not the tech</span>
+        <div class="maxine-name" style="margin-top: 10px;">Maxine.</div>
+        <p class="maxine-bio">
+          <b>26.</b> Marketing coordinator, Toronto. <b>$58,000</b> a year. <b>Scotia chequing customer since 2022 — $4,800 a month in deposits.</b> Last February she opened her first investment account. Not at Scotia. <b style="color: var(--scotia-red);">At Wealthsimple.</b> Next February, she'll move her chequing too.
+        </p>
+        <div class="maxine-quote">
+          "Every February I open Scotia's app to see my T4 deposit, and I see nothing about what to do with it — so I open Wealthsimple instead."
+          <span class="attr">Maxine's painful moment, in one sentence</span>
         </div>
       </div>
     </div>
@@ -555,6 +636,50 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
         <span class="moment-trigger">Fresh-start landmark</span>
         <span class="moment-stat">Madrian & Shea: defaults move enrollment from 49% → 86%.</span>
         <span class="moment-owner"><b>Owned today:</b> Wealthsimple "Unreal Deal" match</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ==================== WEALTHSIMPLE HOUSEHOLDS THREAT BANNER ==================== -->
+<section class="threat-banner">
+  <div class="wrap">
+    <div class="reveal">
+      <span class="threat-meta"><span class="live"></span> 48 hours ago · May 21, 2026</span>
+      <h2>Wealthsimple announced this on Thursday. <span class="em">The case writer didn't know.</span></h2>
+      <p class="lead" style="color: rgba(255,255,255,0.75); max-width: 720px; margin-top: 18px;">Two days before this case dropped, Wealthsimple held their third "Wealthsimple Presents" event in Calgary. They named the campaign in their own words. They are no longer competing for Maxine's investments — they are competing for her family's next forty years.</p>
+
+      <div class="threat-quote">
+        <span class="red">"Wealthsimple Takes Over Your Life."</span>
+      </div>
+      <div class="threat-attribution">— Official campaign name of the May 21, 2026 Wealthsimple Presents event in Calgary</div>
+
+      <div class="threat-products">
+        <div class="threat-prod">
+          <span class="ts">Available now</span>
+          <h3>Wealthsimple Households</h3>
+          <p>One dashboard for the family's chequing, investments, <b style="color: white;">mortgages</b>, group RRSPs — across all institutions. They will aggregate Maxine's Scotia FHSA into their view.</p>
+        </div>
+        <div class="threat-prod">
+          <span class="ts">Fall 2026</span>
+          <h3>Kids & Teens Accounts</h3>
+          <p>Chequing + spend card for any-age children. <b style="color: white;">Parent-paid interest</b> — new in Canada. Converts to a standard adult Wealthsimple account at 18.</p>
+        </div>
+        <div class="threat-prod">
+          <span class="ts">Summer 2026</span>
+          <h3>Authorized Traders</h3>
+          <p>Partners and family members can trade on each other's accounts. The household is the unit, not the individual.</p>
+        </div>
+      </div>
+
+      <div class="threat-footer">
+        <div class="insight">
+          The case asks how Scotia closes the gap with 18-to-34 Canadians. <b>The actual question is whether Scotia is in the room when a generation decides who their family's bank is for the next 40 years.</b> Wealthsimple gave their answer on Thursday.
+        </div>
+        <div>
+          <div class="stat">320,000</div>
+          <div class="stat-sub">Canadians registered for the livestream</div>
+        </div>
       </div>
     </div>
   </div>
@@ -801,6 +926,44 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
   </div>
 </section>
 
+<!-- ==================== CUTS — judges' Reward #2 ==================== -->
+<section class="cuts" id="cuts">
+  <div class="wrap">
+    <div class="reveal">
+      <span class="eyebrow">The why behind cuts</span>
+      <h2 style="margin-top: 10px;">What we chose <span class="em">not</span> to build.</h2>
+      <p class="lead mw-720">Every other team will pitch one of these. We rejected each one with a reason — because shipping in 18 months means picking exactly one wedge and cutting the rest.</p>
+    </div>
+
+    <div class="cuts-grid">
+      <div class="cut reveal">
+        <div class="what">Not a chatbot.</div>
+        <div class="why">Wealthsimple already has one. The differentiator is structural, not conversational.</div>
+      </div>
+      <div class="cut reveal">
+        <div class="what">Not a Scotia Smart Investor reskin.</div>
+        <div class="why">It is not in MoneySense's 2026 Best Robo-Advisors list. Polishing the wrong product loses.</div>
+      </div>
+      <div class="cut reveal">
+        <div class="what">Not a TikTok / finfluencer play.</div>
+        <div class="why">82% of 18–24s already use social for investing info. Bank cannot credibly enter the channel CIRO is warning about.</div>
+      </div>
+      <div class="cut reveal">
+        <div class="what">Not crypto in iTRADE.</div>
+        <div class="why">Wealthsimple Crypto is CIRO-registered. Big Six are structurally excluded. Not Scotia's lane.</div>
+      </div>
+      <div class="cut reveal">
+        <div class="what">Not a Scene+ tie-in.</div>
+        <div class="why">Loyalty bolt-ons are cross-sell theater. They dilute Scene+'s everyday-spend hook without moving FHSA activation.</div>
+      </div>
+      <div class="cut reveal">
+        <div class="what">Not "all 18-to-34s."</div>
+        <div class="why">Building for everyone is building for no one. We picked Segment B — Capital-Constrained Curious — and defended it with market math.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="market" id="market">
   <div class="wrap">
     <div class="reveal">
@@ -888,8 +1051,8 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
   <div class="wrap">
     <div class="reveal center">
       <span class="eyebrow navy">The moat</span>
-      <h2 style="margin-top: 10px;">Activation is the wedge.<br/>The mortgage is the moat.</h2>
-      <p class="lead mw-720" style="margin: 16px auto 0;">Open Banking will let Wealthsimple replicate the surfacing logic. It will not let them close the loop at year five. That is why this product compounds for Scotia and degrades for any pure-play fintech.</p>
+      <h2 style="margin-top: 10px;">Aggregation is not origination.<br/>The mortgage is the moat.</h2>
+      <p class="lead mw-720" style="margin: 16px auto 0;">Wealthsimple Households can <em>see</em> Maxine's FHSA balance. They cannot show her a Scotia mortgage pre-approval — because mortgages are originated, not aggregated. Twelve years in market and Wealthsimple still does not issue mortgages at scale. OSFI B-20 / B-21 requires a deposit funding base and capital they don't have.</p>
     </div>
 
     <div class="moat-table reveal">
@@ -898,24 +1061,24 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
         <div class="sc">Scotia owns</div>
       </div>
       <div class="moat-row">
-        <div class="ws">No mortgage book—12 years operating, still no origination at scale.</div>
-        <div class="sc">Third-largest Canadian residential mortgage originator. FHSA balance maps directly to downpayment.</div>
+        <div class="ws"><b>Cannot originate the mortgage</b> at year five. Wealthsimple Households shows the balance — it cannot underwrite the loan. 12 years in market, zero mortgage scale.</div>
+        <div class="sc">Third-largest Canadian residential mortgage originator. FHSA balance maps directly to downpayment, then to a Scotia mortgage.</div>
+      </div>
+      <div class="moat-row">
+        <div class="ws"><b>Aggregates but does not own.</b> Households shows the customer their accounts elsewhere; the actual underwriting, capital, OSFI relationship stays at Scotia.</div>
+        <div class="sc">First-party financial product origination — chequing, FHSA, mortgage, deposit-funded balance sheet. The relationship is the contract, not the dashboard.</div>
       </div>
       <div class="moat-row">
         <div class="ws">No view of the customer's primary chequing account until Open Banking Phase 1 launches and the customer consents.</div>
-        <div class="sc">Real-time, first-party transaction-data visibility today. The pre-fill mechanism is exclusively Scotia's.</div>
+        <div class="sc">Real-time, first-party transaction-data visibility today. The pre-fill of the $1,920 tax-savings number is exclusively Scotia's — for now.</div>
       </div>
       <div class="moat-row">
         <div class="ws">No branch network for the multilingual newcomer / affluent advisory hand-off.</div>
-        <div class="sc">National branch and multilingual advisor network—an optional upsell, never a gate.</div>
+        <div class="sc">National branch and multilingual advisor network — an optional upsell at month 12, never a gate.</div>
       </div>
       <div class="moat-row">
-        <div class="ws">Their Group FHSA play (announced May 21, 2026) targets employers, not individual chequing customers.</div>
-        <div class="sc">Direct-to-customer in the Scotia app. No employer dependency.</div>
-      </div>
-      <div class="moat-row">
-        <div class="ws">1 in 5 Canadians 18–40 already use Wealthsimple. Almost none have it as their primary deposit relationship.</div>
-        <div class="sc">Scotia is the primary deposit relationship for the other 4 in 5—Wealthsimple's biggest structural blind spot.</div>
+        <div class="ws">1 in 5 Canadians 18–40 already use Wealthsimple. Almost none have it as their primary deposit relationship — yet.</div>
+        <div class="sc">Scotia is the primary deposit relationship for the other 4 in 5 — Wealthsimple's biggest structural blind spot. Households is their attempt to close it.</div>
       </div>
     </div>
   </div>
@@ -959,8 +1122,9 @@ section { padding: clamp(72px, 9vw, 140px) 0; position: relative; }
         <h5>The case</h5>
         <a href="#moat">The moat</a>
         <a href="#ask">The ask</a>
-        <a href="docs/FRAMEWORK.md">Framework doc</a>
+        <a href="docs/WINNING_PLAN.md">Winning plan</a>
         <a href="docs/PITCH.md">Pitch script</a>
+        <a href="docs/QA.md">Q&A backstop</a>
       </div>
       <div>
         <h5>Sources</h5>
