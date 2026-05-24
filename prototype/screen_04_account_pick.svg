@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1560" width="760" height="1560">
+  <defs>
+    <clipPath id="frame">
+      <rect x="20" y="20" width="720" height="1520" rx="50" />
+    </clipPath>
+    <linearGradient id="bezelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#222"/>
+    </linearGradient>
+  </defs>
+  <!-- bezel -->
+  <rect x="0" y="0" width="760" height="1560" rx="60" fill="url(#bezelGrad)"/>
+  <!-- screen -->
+  <rect x="20" y="20" width="720" height="1520" rx="50" fill="#FFFFFF"/>
+  <g clip-path="url(#frame)">
+    <!-- status bar -->
+    <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" fill="#1A1A1A">
+      <text x="80" y="74" font-size="22">9:41</text>
+      <g transform="translate(580, 56)">
+        <rect x="0" y="0" width="22" height="11" rx="2" fill="#1A1A1A"/>
+        <rect x="3" y="2" width="16" height="7" rx="1" fill="#FFFFFF"/>
+        <rect x="3" y="2" width="16" height="7" rx="1" fill="#1A1A1A"/>
+        <rect x="25" y="4" width="2" height="4" rx="1" fill="#1A1A1A"/>
+      </g>
+      <text x="610" y="74" font-size="22">100%</text>
+    </g>
+    <!-- notch -->
+    <rect x="285.0" y="34" width="190" height="34" rx="17" fill="#000"/>
+    
+  
+    <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <path d="M 60 130 l -22 22 l 22 22" stroke="#1A1A1A" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="380.0" y="160" font-size="28" font-weight="700" fill="#1A1A1A" text-anchor="middle">Pick your account</text>
+      <text x="700" y="160" font-size="20" font-weight="600" fill="#EC111A" text-anchor="end" font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">Step 3 of 3</text>
+    </g>
+
+  <rect x="60" y="200" width="640" height="6" rx="3" fill="#E5E7EB"/>
+  <rect x="60" y="200" width="640" height="6" rx="3" fill="#EC111A"/>
+
+  <text x="60" y="270" font-size="20" fill="#6B7280" font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">Based on your answers, we recommend:</text>
+
+  <rect x="60" y="310" width="640" height="380" rx="24" fill="#EC111A"/>
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif" fill="white">
+    <rect x="80" y="335" width="180" height="40" rx="20" fill="white" fill-opacity="0.22"/>
+    <text x="170" y="362" font-size="18" font-weight="700" text-anchor="middle">RECOMMENDED</text>
+
+    <text x="80" y="432" font-size="42" font-weight="800">FHSA</text>
+    <text x="80" y="470" font-size="22" font-weight="500" opacity="0.95">First Home Savings Account</text>
+
+    <text x="80" y="542" font-size="20" font-weight="500" opacity="0.95">Save up to $40,000 tax-free</text>
+    <text x="80" y="574" font-size="20" font-weight="500" opacity="0.95">toward your first home.</text>
+
+    <text x="80" y="632" font-size="18" opacity="0.88">Contributions reduce your taxable income.</text>
+    <text x="80" y="660" font-size="18" opacity="0.88">Withdrawals for a first home are tax-free.</text>
+  </g>
+
+  <text x="60" y="755" font-size="20" font-weight="600" fill="#1A1A1A" font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">Or choose:</text>
+
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="60" y="790" width="310" height="220" rx="20" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="90" y="840" font-size="30" font-weight="800" fill="#1A1A1A">TFSA</text>
+    <text x="90" y="880" font-size="16" fill="#6B7280">Tax-free growth.</text>
+    <text x="90" y="905" font-size="16" fill="#6B7280">Withdraw anytime.</text>
+    <text x="90" y="955" font-size="16" fill="#1A1A1A" font-weight="600">2026 room:</text>
+    <text x="90" y="985" font-size="22" font-weight="800" fill="#EC111A">$7,000</text>
+
+    <rect x="390" y="790" width="310" height="220" rx="20" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="420" y="840" font-size="30" font-weight="800" fill="#1A1A1A">Non-reg</text>
+    <text x="420" y="880" font-size="16" fill="#6B7280">No contribution limit.</text>
+    <text x="420" y="905" font-size="16" fill="#6B7280">Gains are taxable.</text>
+    <text x="420" y="955" font-size="16" fill="#1A1A1A" font-weight="600">Best for:</text>
+    <text x="420" y="985" font-size="18" font-weight="700" fill="#EC111A">flexibility</text>
+  </g>
+
+  <text x="60" y="1080" font-size="16" fill="#6B7280" font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">You are 22. The FHSA matches your timeline best.</text>
+  <text x="60" y="1106" font-size="16" fill="#6B7280" font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">You can always change later.</text>
+
+  <rect x="60" y="1180" width="640" height="100" rx="50" fill="#EC111A"/>
+  <text x="380.0" y="1242" font-size="26" font-weight="700" fill="white" text-anchor="middle" font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">Open FHSA</text>
+
+    <!-- home indicator -->
+    <rect x="310.0" y="1510" width="140" height="6" rx="3" fill="#1A1A1A" opacity="0.4"/>
+  </g>
+</svg>

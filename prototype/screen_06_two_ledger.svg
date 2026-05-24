@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1560" width="760" height="1560">
+  <defs>
+    <clipPath id="frame">
+      <rect x="20" y="20" width="720" height="1520" rx="50" />
+    </clipPath>
+    <linearGradient id="bezelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#222"/>
+    </linearGradient>
+  </defs>
+  <!-- bezel -->
+  <rect x="0" y="0" width="760" height="1560" rx="60" fill="url(#bezelGrad)"/>
+  <!-- screen -->
+  <rect x="20" y="20" width="720" height="1520" rx="50" fill="#FFFFFF"/>
+  <g clip-path="url(#frame)">
+    <!-- status bar -->
+    <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" fill="#1A1A1A">
+      <text x="80" y="74" font-size="22">9:41</text>
+      <g transform="translate(580, 56)">
+        <rect x="0" y="0" width="22" height="11" rx="2" fill="#1A1A1A"/>
+        <rect x="3" y="2" width="16" height="7" rx="1" fill="#FFFFFF"/>
+        <rect x="3" y="2" width="16" height="7" rx="1" fill="#1A1A1A"/>
+        <rect x="25" y="4" width="2" height="4" rx="1" fill="#1A1A1A"/>
+      </g>
+      <text x="610" y="74" font-size="22">100%</text>
+    </g>
+    <!-- notch -->
+    <rect x="285.0" y="34" width="190" height="34" rx="17" fill="#000"/>
+    
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="60" y="170" font-size="20" font-weight="500" fill="#6B7280">FHSA, Scotia Essentials</text>
+    <text x="60" y="218" font-size="34" font-weight="800" fill="#1A1A1A">Hey Miller</text>
+
+    <text x="60" y="290" font-size="18" fill="#6B7280" font-weight="600">TOTAL VALUE</text>
+    <text x="60" y="362" font-size="74" font-weight="900" fill="#1A1A1A">$487.14</text>
+
+    <g transform="translate(60, 390)">
+      <circle cx="14" cy="0" r="14" fill="#00875A" opacity="0.15"/>
+      <path d="M 6 0 l 0 -8 l 8 0 m -8 0 l 16 16" stroke="#00875A" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <text x="40" y="6" font-size="20" font-weight="700" fill="#00875A">+$14.81 this month, +3.1%</text>
+    </g>
+  </g>
+
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="380.0" y="470" font-size="18" font-weight="700" fill="#6B7280" text-anchor="middle" letter-spacing="2">YOUR MONEY  ·  SCOTIA'S MATCH</text>
+  </g>
+
+  <!-- LEFT: your money, charcoal -->
+  <rect x="60" y="510" width="310" height="280" rx="24" fill="#2D3748"/>
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif" fill="white">
+    <text x="90" y="555" font-size="14" font-weight="700" opacity="0.85" letter-spacing="1">YOUR CONTRIBUTIONS</text>
+    <text x="90" y="615" font-size="42" font-weight="900">$362.14</text>
+    <line x1="90" y1="650" x2="340" y2="650" stroke="white" stroke-opacity="0.3"/>
+    <text x="90" y="690" font-size="14" font-weight="600" opacity="0.85">Deposits</text>
+    <text x="340" y="690" font-size="18" font-weight="700" text-anchor="end">$340.00</text>
+    <text x="90" y="725" font-size="14" font-weight="600" opacity="0.85">Round-ups</text>
+    <text x="340" y="725" font-size="18" font-weight="700" text-anchor="end">$11.46</text>
+    <text x="90" y="760" font-size="14" font-weight="600" opacity="0.85">Growth</text>
+    <text x="340" y="760" font-size="18" font-weight="700" text-anchor="end">+$10.68</text>
+  </g>
+
+  <!-- RIGHT: Scotia's match, red -->
+  <rect x="390" y="510" width="310" height="280" rx="24" fill="#EC111A"/>
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif" fill="white">
+    <text x="420" y="555" font-size="14" font-weight="700" opacity="0.92" letter-spacing="1">SCOTIA'S MATCH</text>
+    <text x="420" y="615" font-size="42" font-weight="900">$125.00</text>
+    <line x1="420" y1="650" x2="670" y2="650" stroke="white" stroke-opacity="0.35"/>
+    <text x="420" y="690" font-size="14" font-weight="600" opacity="0.92">Welcome</text>
+    <text x="670" y="690" font-size="18" font-weight="700" text-anchor="end">$25.00</text>
+    <text x="420" y="725" font-size="14" font-weight="600" opacity="0.92">PAC bonus</text>
+    <text x="670" y="725" font-size="18" font-weight="700" text-anchor="end">$50.00</text>
+    <text x="420" y="760" font-size="14" font-weight="600" opacity="0.92">Yr-1 milestone</text>
+    <text x="670" y="760" font-size="18" font-weight="700" text-anchor="end">$50.00</text>
+  </g>
+
+  <!-- Locked notice -->
+  <rect x="60" y="820" width="640" height="90" rx="20" fill="white" stroke="#E5E7EB"/>
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <circle cx="110" cy="865" r="22" fill="#EC111A" opacity="0.12"/>
+    <rect x="100" y="855" width="20" height="14" rx="2" fill="none" stroke="#EC111A" stroke-width="3"/>
+    <path d="M 104 855 v -4 a 6 6 0 0 1 12 0 v 4" fill="none" stroke="#EC111A" stroke-width="3"/>
+    <text x="150" y="858" font-size="18" font-weight="700" fill="#1A1A1A">Scotia's match unlocks May 23, 2028</text>
+    <text x="150" y="888" font-size="15" fill="#6B7280">Withdraw freely from your side anytime.</text>
+  </g>
+
+  <rect x="60" y="940" width="640" height="170" rx="20" fill="white" stroke="#E5E7EB"/>
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="90" y="980" font-size="14" font-weight="700" fill="#6B7280" letter-spacing="1">NEXT MILESTONE, IN 8 MONTHS</text>
+    <text x="90" y="1020" font-size="22" font-weight="800" fill="#1A1A1A">12-month anniversary</text>
+    <text x="90" y="1052" font-size="18" font-weight="700" fill="#00875A">+$100 from Scotia</text>
+    <rect x="90" y="1075" width="580" height="10" rx="5" fill="#E5E7EB"/>
+    <rect x="90" y="1075" width="243" height="10" rx="5" fill="#00875A"/>
+    <text x="670" y="1072" font-size="14" font-weight="700" fill="#6B7280" text-anchor="end">4 of 12 months</text>
+  </g>
+
+  <!-- Bottom nav -->
+  <rect x="20" y="1380" width="720" height="120" fill="white"/>
+  <line x1="20" y1="1380" x2="740" y2="1380" stroke="#E5E7EB"/>
+  <g font-family="Frutiger, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <circle cx="100" cy="1420" r="20" fill="#EC111A" opacity="0.12"/>
+    <text x="100" y="1428" font-size="22" fill="#EC111A" font-weight="900">$</text>
+    <text x="100" y="1470" fill="#EC111A">Invest</text>
+
+    <path d="M 270 1418 l 10 -8 l 10 8 v 10 h -20 z" fill="#6B7280"/>
+    <text x="280" y="1470" fill="#6B7280">Banking</text>
+
+    <path d="M 452 1410 a 8 8 0 1 1 16 0 a 8 8 0 1 1 -16 0 m -6 22 a 14 14 0 0 1 28 0" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <text x="460" y="1470" fill="#6B7280">Learn</text>
+
+    <circle cx="640" cy="1415" r="10" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <path d="M 630 1432 a 12 12 0 0 1 20 0" fill="none" stroke="#6B7280" stroke-width="2"/>
+    <text x="640" y="1470" fill="#6B7280">You</text>
+  </g>
+
+    <!-- home indicator -->
+    <rect x="310.0" y="1510" width="140" height="6" rx="3" fill="#1A1A1A" opacity="0.4"/>
+  </g>
+</svg>

@@ -12,31 +12,9 @@
 
 ---
 
-## Top 4 Blow-Up Risks — drill these reflexively
+## Top 3 Blow-Up Risks — drill these reflexively
 
-### Risk 1 (NEW, MOST IMPORTANT) — "Wealthsimple Households just launched on Thursday. They aggregate the customer's Scotia FHSA into their dashboard. Doesn't that defeat your moat?"
-
-**Why this question is dangerous:** This is THE question a competition-day judge will ask, because the announcement is 48 hours old and any banker paying attention to the market has seen it. If we don't have a reflexive answer that distinguishes *aggregation* from *origination*, we lose the moat slide entirely.
-
-**The crisp answer (memorize, ~60 sec):**
-
-> "Aggregation is not ownership, and it is not origination. Wealthsimple Households can show Maxine the *balance* of her Scotia FHSA. They cannot show her a Scotia mortgage pre-approval, because mortgages are originated, not aggregated. The closed loop — FHSA contribution → projected pre-approval → actual Scotia mortgage — lives in Scotia's underwriting system, on Scotia's capital, with Scotia's OSFI relationship. Wealthsimple has been operating in Canada for twelve years and still does not originate mortgages at scale, because mortgage origination requires OSFI B-20 / B-21 compliance, a deposit funding base, and capital they don't have. And here is the deeper point: their Households launch actually *strengthens* our urgency case. They are no longer just an investment competitor. They are positioning themselves — in their own words — as 'the default financial operating system' for the next generation of Canadian families. If Scotia doesn't intercept Maxine's first major financial decision THIS tax season, her child will be on Wealthsimple Kids by 2030. Tax season 2027 is the last clean window."
-
-**If they push: "Could Wealthsimple buy a mortgage book — or partner with EQ Bank?"**
-
-> "Possible — in year three or later. They would need OSFI authorization, deposit funding scale, and underwriting infrastructure they don't currently have. By the time they're ready, Scotia has 100,000+ FHSA customers with five-year compounding mortgage-attach pipelines. The switching cost has compounded into a real defensive moat."
-
-**If they push: "Could Households aggregate Maxine's relationship to the point where the Wealthsimple brand owns her mentally, even if Scotia holds the contract?"**
-
-> "Yes — which is exactly why we built the Home Runway dashboard. The $485,000 pre-approval card is the moment Maxine *feels* the moat. It's not on Wealthsimple's dashboard, because it can't be. She comes back to the Scotia app for that card. Brand intimacy is built at the moment of decision, not at the moment of aggregation."
-
-**The fallback line if all else fails:**
-
-> "Their 'Wealthsimple Takes Over Your Life' campaign is exactly why we are pitching this product, today, for tax season 2027. If we don't ship, they take her life. If we ship, we own the one moment they cannot replicate."
-
----
-
-### Risk 2 — "Why won't Wealthsimple just build this once Open Banking gives them your data?"
+### Risk 1 — "Why won't Wealthsimple just build this once Open Banking gives them your data?"
 
 **Why this question is dangerous:** It tests whether the team has thought past the data-moat erosion. If the answer is just "we'll move faster," the team loses points.
 
@@ -48,7 +26,7 @@
 
 ---
 
-### Risk 3 — "Your unit economics assume optimistic activation. Sensitize me."
+### Risk 2 — "Your unit economics assume optimistic activation. Sensitize me."
 
 **Why this question is dangerous:** Bankers fishbone the math. If we say "it'll work at any rate," that's the wrong answer. They want to see we've actually modeled downside.
 
@@ -60,7 +38,7 @@
 
 ---
 
-### Risk 4 — "How do you handle suitability if you're recommending an investment in a chequing-app context?"
+### Risk 3 — "How do you handle suitability if you're recommending an investment in a chequing-app context?"
 
 **Why this question is dangerous:** This is the one a CPA-trained auditor will ask. If we sound vague, we look like undergrad consultants. If we sound precise, we look like product managers who briefed compliance.
 
@@ -69,28 +47,6 @@
 > "Three layers. **One — the in-app surface is *information*, not advice under NI 31-103.** It's a regulated disclosure with a CTA, the same pattern Scotia uses today on the existing 'Explore Smart Investor' tile. **Two — the recommended product is Scotia Essentials Balanced Portfolio, a managed portfolio where firm-level suitability is established at the KYP layer.** The customer's individual KYC is collected from their banking profile and confirmed at activation. This is identical to how Scotia Smart Investor works today — we are not inventing a new compliance pathway. **Three — CIRO registration sits with Scotia Capital Inc., specifically Scotia iTRADE.** All HomeStart account-opening flows route to the registered dealer through the existing infrastructure. Compliance review for this product is a process step, not a redesign."
 
 **If they push:** *"What about the personalized $1,920 tax-savings estimate — is that 'advice'?"* — No. Estimates of tax outcomes based on the customer's own provided income data are calculations, not investment advice. We label clearly as "estimate," show the calculation, and provide a "speak with a Scotia advisor" path. The Canada Revenue Agency itself publishes equivalent tax estimators.
-
----
-
-## The generational follow-up questions (the deep Wealthsimple Households questions)
-
-These get asked after the top four risks if the judges are tracking the Thursday announcement closely.
-
-### Q: "Wealthsimple Kids launches in Fall 2026 — inside your case horizon. Doesn't that beat you to the next generation?"
-
-**A:** No — opposite. Wealthsimple Kids is a trust account owned by the parent. The parent is the activation decision-maker, and the parent is exactly who we are targeting with Scotia HomeStart. If we activate Maxine's investing relationship with Scotia in February 2027, she is significantly less likely to onboard her kid into Wealthsimple Kids later that year. **The Kids product is downstream of the parent's banking choice. We are competing for the parent.**
-
-### Q: "Their 'parent-paid interest' feature is genuinely novel in Canada. What's Scotia's response?"
-
-**A:** Not relevant to the activation moment we are targeting. Maxine's decision in February 2027 is FHSA vs. no FHSA, not "where will my future kid bank?" By the time the parent-paid-interest comparison becomes salient (her kid hits ~8-10 years old, ~2035+), Maxine has had a Scotia FHSA → Scotia mortgage relationship for nearly a decade. The lock-in is the mortgage, not the rate on a kid's account. We are not trying to win the kid-account war; we are trying to keep the parent.
-
-### Q: "What if Wealthsimple announces Wealthsimple Mortgages tomorrow?"
-
-**A:** They would need OSFI authorization, B-20 compliance infrastructure, a deposit-funding scale they don't have, and a credit-risk department. The Bank Act and OSFI's Capital Adequacy Requirements (CAR) Guideline make Big Six entry slow even with capital. Even if Wealthsimple launches a pilot mortgage product in 2027-28, they would not have a competitive book until 2030+. Scotia compounds the FHSA → mortgage attach over those five years. The window does not close instantly.
-
-### Q: "Wealthsimple already grew from $52B to $124.8B AUA in 12 months. How do you ensure Scotia HomeStart even matters at that growth rate?"
-
-**A:** Scotia HomeStart targets the *Capital-Constrained Curious* — ~58% of the 18-34 cohort, the *unactivated* half. Wealthsimple's 71% AUA growth came overwhelmingly from the *Affluent Activator* segment (Segment A in our framework) — high-income earners with existing investing intent. They have not solved the activation problem for the median renter under-35 with $12K in liquid assets. Our product is built for that customer, not Wealthsimple's customer.
 
 ---
 
@@ -195,27 +151,4 @@ Three acceptable responses, in this order:
 
 If the moderator says "any final words," **Presenter A** delivers:
 
-> "Next February, when Maxine opens the Scotia app, she'll see something useful for the first time. And she won't have to leave. **Give us tax season 2027. Thank you.**"
-
----
-
-## Judge-vetting pass — the final read-through
-
-Before the dry run, the team reads this aloud. If any answer below is "no," fix before submission.
-
-| Check | Test | Pass? |
-|---|---|---|
-| **Real user named?** | Slide 1 says "Maxine." Not "young Canadians." Not "Gen Z." A person with a name, age, income, T4. | ☐ |
-| **Painful moment in ONE sentence?** | The Slide 2 quote is exactly one sentence and a real human could say it out loud. | ☐ |
-| **North star fits on a sticky?** | "We help Maxine open her FHSA in 90 seconds, inside the Scotia app, at tax time — and start her runway to a Scotia mortgage." Yes. | ☐ |
-| **Magic moment isolated?** | The $485K mortgage pre-approval card on Screen 3 is the one number the judge remembers after the pitch ends. | ☐ |
-| **Cuts shown explicitly?** | Slide 6 lists six things we chose NOT to build, with reasons. | ☐ |
-| **Wealthsimple Households addressed?** | Slide 7 + Q&A Risk 1 both directly answer the threat. The team has memorized the "aggregation ≠ origination" line. | ☐ |
-| **End on the user?** | Slide 9 closes on Maxine, the same person we opened on. | ☐ |
-| **Every load-bearing number cited?** | Each bold number on every slide can be traced to a source URL in the appendix. | ☐ |
-| **Under 9 minutes?** | Timed twice, ending under 9:00, with a 30-second buffer. | ☐ |
-| **Q&A drill complete?** | Each of the 4 Risk answers has been spoken aloud at least once by the presenter who will deliver it. | ☐ |
-| **No anti-pattern in the demo?** | No chatbot, no robo-pitch, no TikTok, no crypto, no Scene+ gimmick, no "all 18-34" copy. | ☐ |
-| **Compliance one-pager ready?** | NI 31-103, CIRO, PIPEDA, FCAC, OSFI, CDIC, CDBA — one slide each in the appendix tile. | ☐ |
-
-If every box is checked, the team is rubric-aligned and competitive against the 499 other teams. If even one is unchecked, fix it before submitting.
+> "Scotia is the bank for 18-to-34 Canadians' first paycheques. We have an 18-month window to be the bank for their first investments and their first homes. **Tax season 2027 is the trigger. The mortgage book is the moat.** Thank you."
