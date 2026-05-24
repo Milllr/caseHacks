@@ -1,7 +1,11 @@
-# ScotiaSeed — Q&A Defense Pack
+> **Canonicity note.** This Q&A defense pack was written during the early-prep phase. Where any specific answer conflicts with `TEAM_CONTEXT.md`, TEAM_CONTEXT is canonical. The numbers, sources, and answer patterns in this document remain correct and ready to defend in Q&A. The five one-liners at the bottom of this file are still the fall-back lines to memorize.
+
+---
+
+# ScotiaSeed. Q&A Defense Pack
 **For the 5-minute Q&A. Read this in the 15-minute pre-pitch window.**
 
-The 10-minute pitch tells the story. This document arms you for the 5 minutes after. Judges from Scotiabank wrote the case — they will probe your math, your regulatory understanding, and your assumptions. Lead with the **headline answer** for each question (one sentence, confident), then have the **backup math** ready if they push.
+The 10-minute pitch tells the story. This document arms you for the 5 minutes after. Judges from Scotiabank wrote the case. They will probe your math, your regulatory understanding, and your assumptions. Lead with the **headline answer** for each question (one sentence, confident), then have the **backup math** ready if they push.
 
 ---
 
@@ -10,23 +14,23 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 - **Don't filibuster.** Answer in ≤30 seconds, then stop. Let them ask the follow-up.
 - **Numbers > adjectives.** "$300 vs Scotia's existing $175 student spend" beats "we think it's a good investment."
 - **Concede small, defend big.** When they catch a real flaw, say "you're right, the cleaner version of that is X." Don't dig in on weak ground.
-- **Name the case page.** When you cite a stat, say "from page 5 of the case" — proves you read it.
+- **Name the case page.** When you cite a stat, say "from page 5 of the case". Proves you read it.
 - **One person leads, others backstop.** Designate a single answerer; teammates add a sentence only if asked or if the lead misses a number.
 
 ---
 
-## CATEGORY A — ECONOMICS (most likely attack surface)
+## CATEGORY A. ECONOMICS (most likely attack surface)
 
 ### Q1. "Can Scotia really afford $300 per user? At scale that's enormous."
 
-**Headline:** Scotia already spends $175 per new student/youth chequing customer through July 2026 — we're adding ≤ $125 to convert that same person into an investor whose 20-year NPV is $3–6K.
+**Headline:** Scotia already spends $175 per new student/youth chequing customer through July 2026. We're adding ≤ $125 to convert that same person into an investor whose 20-year NPV is $3–6K.
 
 **Backup math:**
 - Scotia 2026 student promo: up to $175 for opening a Preferred Package for Students & Youth with two activation actions ([source](https://www.scotiabank.com/ca/en/personal/bank-accounts/chequing-accounts/preferred-student-youth-bank-account.html)).
 - RBC Direct Investing's current offer: up to **$5,000** cashback per acquired brokerage customer (2% on $10K minimum deposit, locked till June 2027).
 - ScotiaSeed at $300 is **40% below the existing Scotia student spend on a different KPI** and **94% below the RBC investing CAC ceiling**.
-- Banking-industry CLV benchmark: $2,000–$4,500 per retail relationship. ScotiaSeed adds FHSA → mortgage attach and the wealth-transfer optionality — conservative NPV $3K–$6K @ 7% discount rate.
-- **Pilot scope** before national: 20K students in Q1 2027. Max pilot exposure = 20K × $350 = **$7M** — a rounding error on Scotia's $7.8B FY25 net income.
+- Banking-industry CLV benchmark: $2,000–$4,500 per retail relationship. ScotiaSeed adds FHSA → mortgage attach and the wealth-transfer optionality. Conservative NPV $3K–$6K @ 7% discount rate.
+- **Pilot scope** before national: 20K students in Q1 2027. Max pilot exposure = 20K × $350 = **$7M**. A rounding error on Scotia's $7.8B FY25 net income.
 
 ### Q2. "Won't most people just take the $25 and bounce?"
 
@@ -40,7 +44,7 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 ### Q3. "Your LTV math seems optimistic. What's your assumed AUM trajectory?"
 
-**Headline:** We're assuming a typical mass-market path: $5K AUM at year 2, $50K at year 15, $100K at year 25 — about 40% slower than Wealthsimple's actual user-cohort growth.
+**Headline:** We're assuming a typical mass-market path: $5K AUM at year 2, $50K at year 15, $100K at year 25. About 40% slower than Wealthsimple's actual user-cohort growth.
 
 **Backup math:**
 - FHSA contributor median deposit at age <25: ~$5,500/yr ([Globe and Mail/CRA stats](https://www.theglobeandmail.com/investing/personal-finance/article-first-home-savings-accounts-first-time-buyers-high-earnings-family/)).
@@ -51,7 +55,7 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 ### Q4. "What's your assumed conversion rate from chequing customer to ScotiaSeed enrollee?"
 
-**Headline:** Pilot target 8–12% in year 1, ramping to 20% by year 3 — benchmarked against Wealthsimple's organic conversion within their own cash users.
+**Headline:** Pilot target 8–12% in year 1, ramping to 20% by year 3. Benchmarked against Wealthsimple's organic conversion within their own cash users.
 
 **Backup math:**
 - Scotia has ~5M Canadian customers; ~25% are 18–34 → ~1.25M target segment.
@@ -60,9 +64,9 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 - We're targeting *below* that initially because we're a new program; ScotiaSeed's banking integration lifts the ceiling over time.
 - **Honesty card:** No public Scotia number; this is an assumption, calibrated to industry benchmarks. We've sized the pilot to test this rate before national rollout.
 
-### Q5. "The 2-3¢ per debit transaction — is that actually material to a young user?"
+### Q5. "The 2-3¢ per debit transaction. Is that actually material to a young user?"
 
-**Headline:** It's emotionally material more than financially material. Capped at $50 over 2 years, it costs Scotia ~$15/user — and it creates 200+ daily moments of "Scotia just invested in me."
+**Headline:** It's emotionally material more than financially material. Capped at $50 over 2 years, it costs Scotia ~$15/user. And it creates 200+ daily moments of "Scotia just invested in me."
 
 **Backup math:**
 - Avg young Canadian debit/credit transactions: ~250–300/yr.
@@ -72,16 +76,16 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 ---
 
-## CATEGORY B — REGULATORY / COMPLIANCE
+## CATEGORY B. REGULATORY / COMPLIANCE
 
 ### Q6. "What about CIRO suitability? You can't just give someone an investment account because they have a chequing account."
 
-**Headline:** We're not skipping suitability — we're compressing it. Every new ScotiaSeed user completes a five-question CIRO suitability assessment in plain language. We reduce the time from ~25 minutes to ~5; the regulatory rigor is identical.
+**Headline:** We're not skipping suitability. We're compressing it. Every new ScotiaSeed user completes a five-question CIRO suitability assessment in plain language. We reduce the time from ~25 minutes to ~5; the regulatory rigor is identical.
 
 **Backup detail:**
 - CIRO Rule 3402(1) requires the dealer to determine an investment action is suitable based on KYC factors and put client's interest first ([CIRO source](https://www.ciro.ca/newsroom/publications/know-your-client-and-suitability-determination-retail-clients)).
-- We **cannot manipulate KYC to fit a predetermined product** — CIRO explicitly prohibits this. Our questionnaire is genuine.
-- FINTRAC Method 5 ("reliance on other reporting entities") permits re-use of identity verification across the same regulated entity ([source](https://www.trulioo.com/blog/financial-services/fintrac-identification)) — that's how we eliminate the ID re-upload, not the suitability questions.
+- We **cannot manipulate KYC to fit a predetermined product**. CIRO explicitly prohibits this. Our questionnaire is genuine.
+- FINTRAC Method 5 ("reliance on other reporting entities") permits re-use of identity verification across the same regulated entity ([source](https://www.trulioo.com/blog/financial-services/fintrac-identification)). That's how we eliminate the ID re-upload, not the suitability questions.
 
 ### Q7. "Won't paying a $25 bonus into a TFSA cause over-contribution issues?"
 
@@ -109,7 +113,7 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 **Backup detail:**
 - CIRO Rule 3117 prohibits non-cash sales incentives to dealer members or employees in connection with mutual fund sales ([source](https://www.ciro.ca/newsroom/publications/mutual-fund-sales-incentives-0)).
 - ScotiaSeed bonus flows Scotia → customer. It is structurally a *consumer rebate*, not a sales commission.
-- Suitability remains unbiased because the suitability questionnaire output drives product selection — not the bonus eligibility.
+- Suitability remains unbiased because the suitability questionnaire output drives product selection. Not the bonus eligibility.
 
 ### Q10. "Are the $25 bonuses taxable to the user?"
 
@@ -118,11 +122,11 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 **Backup detail:**
 - Common CRA treatment of bank promo bonuses: similar to coupons or merchant discounts; not reported on T-slips ([forum discussion confirms standard practice](https://forums.redflagdeals.com/bank-account-sign-up-bonuses-taxable-canada-2488040/)).
 - ScotiaSeed will work with Scotia tax & legal to confirm final treatment pre-launch.
-- If structured as bonus interest, it would be reportable on T5 above the $50 threshold — we'll route as a non-interest promotional credit to avoid this.
+- If structured as bonus interest, it would be reportable on T5 above the $50 threshold. We'll route as a non-interest promotional credit to avoid this.
 
 ---
 
-## CATEGORY C — COMPETITIVE / STRATEGIC
+## CATEGORY C. COMPETITIVE / STRATEGIC
 
 ### Q11. "Wealthsimple is becoming a bank. Doesn't that destroy your 'we already have them' wedge?"
 
@@ -130,9 +134,9 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 **Backup detail:**
 - Wealthsimple Q1 2026 AUA: $125B, up 71% YoY ([source](https://foolinvestor.com/2025/10/wealthsimple-chequing-account-review/)).
-- CEO Michael Katchen publicly targeting $1T AUA by 2034 — Wealthsimple is the threat, not a peer.
+- CEO Michael Katchen publicly targeting $1T AUA by 2034. Wealthsimple is the threat, not a peer.
 - Switching primary banks is sticky: payroll, mortgage, credit history, autopay are still 80%+ at incumbents.
-- ScotiaSeed converts the investor relationship while the deposit moat is still intact. **The window is closing — that's the urgency.**
+- ScotiaSeed converts the investor relationship while the deposit moat is still intact. **The window is closing. That's the urgency.**
 
 ### Q12. "What stops Wealthsimple from copying this exact program?"
 
@@ -146,7 +150,7 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 ### Q13. "TD GoalAssist has $0 minimum and commission-free TD ETFs. Why isn't ScotiaSeed already losing to them?"
 
-**Headline:** TD GoalAssist has no acquisition story — no signup bonus, no education hook, no recurring-contribution loop. It's a destination, not a path. ScotiaSeed is the path.
+**Headline:** TD GoalAssist has no acquisition story. No signup bonus, no education hook, no recurring-contribution loop. It's a destination, not a path. ScotiaSeed is the path.
 
 **Backup detail:**
 - TD GoalAssist: $0 minimum, commission-free TD ETFs, no current promo.
@@ -160,15 +164,15 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 **Backup detail:**
 - Wealthsimple's playbook: simplicity, low fees, mobile-first, no minimums.
 - We adopt those tactics but layer the structural advantages.
-- "Earn primary client relationships" — Scotia's own strategic pillar — explicitly asks for *value over volume*. ScotiaSeed delivers that.
+- "Earn primary client relationships". Scotia's own strategic pillar. Explicitly asks for *value over volume*. ScotiaSeed delivers that.
 
 ---
 
-## CATEGORY D — PRODUCT / EXECUTION
+## CATEGORY D. PRODUCT / EXECUTION
 
 ### Q15. "Why default to Scotia Essentials Portfolios and not iTRADE?"
 
-**Headline:** Essentials Portfolios fit the "no continuous annual fees" requirement and support $25/month PAC out of the box. iTRADE has a quarterly maintenance fee unless balance thresholds are met — wrong for someone with $50 in their account.
+**Headline:** Essentials Portfolios fit the "no continuous annual fees" requirement and support $25/month PAC out of the box. iTRADE has a quarterly maintenance fee unless balance thresholds are met. Wrong for someone with $50 in their account.
 
 **Backup detail:**
 - Scotia Smart Investor → Essentials Portfolios: managed ETF allocation, ~0.65% MER (embedded in fund, no separate account fee), $25/mo minimum PAC ([source](https://www.scotiabank.com/ca/en/personal/investing/scotia-smart-investor.html)).
@@ -187,7 +191,7 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 ### Q17. "What's your minimum viable launch? Can you really do this in 18 months?"
 
-**Headline:** Yes — everything we need exists at Scotia today. The build is integration work, not new product development.
+**Headline:** Yes. Everything we need exists at Scotia today. The build is integration work, not new product development.
 
 **Backup detail:**
 - KYC re-use: leverage existing FINTRAC infrastructure.
@@ -198,16 +202,16 @@ The 10-minute pitch tells the story. This document arms you for the 5 minutes af
 
 ### Q18. "How do you measure success?"
 
-**Headline:** Primary KPI is *new investment accounts opened* in the target cohort. End-goal KPI is *recurring-contribution rate at month 24* — that's the case's "sustained engagement" language verbatim.
+**Headline:** Primary KPI is *new investment accounts opened* in the target cohort. End-goal KPI is *recurring-contribution rate at month 24*. That's the case's "sustained engagement" language verbatim.
 
 **Backup detail:**
 - Leading indicators: % of eligible students enrolling (target 8–12% Y1), $25 starter bonus claim rate, education module completion rate.
 - Lagging indicators: % with active PAC at month 6, retention at months 12 and 24, AUM per cohort, FHSA → mortgage attach rate.
-- The case (page 7) is explicit: "move the needle not just on account openings but also on sustained investment engagement." We optimize for both — opening as leading indicator, contribution rate as the success metric.
+- The case (page 7) is explicit: "move the needle not just on account openings but also on sustained investment engagement." We optimize for both. Opening as leading indicator, contribution rate as the success metric.
 
 ### Q19. "What if a young user doesn't have $25/month to contribute?"
 
-**Headline:** That's a critical question — and it's why the round-ups exist. Round-ups + Momentum cashback redirect mean a user can satisfy "recurring contribution" purely from change they were spending anyway, even at $0 incremental.
+**Headline:** That's a critical question. And it's why the round-ups exist. Round-ups + Momentum cashback redirect mean a user can satisfy "recurring contribution" purely from change they were spending anyway, even at $0 incremental.
 
 **Backup detail:**
 - Round-up + Momentum cashback can generate ~$10–25/month organically for an average young spender.
@@ -234,7 +238,7 @@ The fintech retention curve shows two cliffs: month 12 (where 40% drop off) and 
 
 ### "What about international students or newcomers?"
 
-Phase 2 — Scotia StartRight is the natural extension (it's the existing newcomer pipeline). ScotiaSeed for newcomers is a Q3 2027 extension once the domestic pilot has 6+ months of data.
+Phase 2. Scotia StartRight is the natural extension (it's the existing newcomer pipeline). ScotiaSeed for newcomers is a Q3 2027 extension once the domestic pilot has 6+ months of data.
 
 ### "Why FHSA as the hero and not TFSA?"
 
@@ -242,11 +246,11 @@ Two reasons. First, the data: bulk of FHSA contributors are 25–34, with the yo
 
 ### "What if the markets crash during the program?"
 
-Two answers. First, we explicitly teach this in education module 5 ("When markets drop, what really happens?"). Second, the round-up + auto-PAC mechanism means users keep buying through downturns — they're dollar-cost averaging without thinking about it. The locked Scotia match is a psychological anchor: "you'd be giving up free money to panic-sell." Behaviorally, this *helps* retention through a downturn.
+Two answers. First, we explicitly teach this in education module 5 ("When markets drop, what really happens?"). Second, the round-up + auto-PAC mechanism means users keep buying through downturns. They're dollar-cost averaging without thinking about it. The locked Scotia match is a psychological anchor: "you'd be giving up free money to panic-sell." Behaviorally, this *helps* retention through a downturn.
 
 ### "What if Scotia leadership balks at the cost?"
 
-Lead with the math, not the program. Scotia's FY25 net income was $7.8B. Pilot exposure is $7M (0.09% of net income). Even a national rollout at 500K enrolled = $175M cumulative over 2 years — still 2.2% of one year's net income, and producing 5–10x ROI in NPV terms. **It's a marketing-budget-sized investment in a primary-client-relationship outcome.** Their Investor Day strategy already named "Earn primary client relationships" as a pillar; ScotiaSeed is one of the cheapest ways to execute on that pillar.
+Lead with the math, not the program. Scotia's FY25 net income was $7.8B. Pilot exposure is $7M (0.09% of net income). Even a national rollout at 500K enrolled = $175M cumulative over 2 years. Still 2.2% of one year's net income, and producing 5–10x ROI in NPV terms. **It's a marketing-budget-sized investment in a primary-client-relationship outcome.** Their Investor Day strategy already named "Earn primary client relationships" as a pillar; ScotiaSeed is one of the cheapest ways to execute on that pillar.
 
 ### "Why is this better than just spending more on social media advertising?"
 
@@ -269,7 +273,7 @@ For when you're cornered and need a confident reset:
 ## DURING-PITCH HAZARDS TO AVOID
 
 - **Don't claim Roundup is novel.** Wealthsimple shipped Roundup in 2018. Claim *integration*, not invention.
-- **Don't oversell "one tap."** Suitability assessment is mandatory under CIRO — say "five minutes" instead of "one tap."
+- **Don't oversell "one tap."** Suitability assessment is mandatory under CIRO. Say "five minutes" instead of "one tap."
 - **Don't ignore the $25 student promo.** If asked about cost, say it explicitly: "Scotia already spends $175 here. We add $125."
 - **Don't pitch the single-bank thesis as the headline.** Wealthsimple is becoming a bank too. Lead with "the bank that already has you."
 - **Don't promise specific Scotia internal data.** Use industry benchmarks and case data; flag your assumptions where they're assumptions.

@@ -194,9 +194,9 @@ Examples.
 
 | Forbidden | Use instead |
 |---|---|
-| "The bonus is the hook—and the auto-PAC is the moat." | "The bonus is the hook. The auto-PAC is the moat." |
-| "ScotiaSeed—a 2-year program—matches contributions." | "ScotiaSeed is a 2-year program that matches contributions." |
-| "Our wedge—pre-verified KYC—cannot be copied." | "Our wedge is pre-verified KYC. It cannot be copied." |
+| "The bonus is the hook, and the auto-PAC is the moat." | "The bonus is the hook. The auto-PAC is the moat." |
+| "ScotiaSeed, a 2-year program, matches contributions." | "ScotiaSeed is a 2-year program that matches contributions." |
+| "Our wedge, pre-verified KYC, cannot be copied." | "Our wedge is pre-verified KYC. It cannot be copied." |
 
 Hyphens in number ranges (`18-34`) and compound modifiers (`first-home`) are allowed. En-dashes (–) in numeric ranges are also allowed if rendered correctly.
 

@@ -1,0 +1,481 @@
+Official [case]Hacks 2026 Case & Guidelines
+          Closing the Gap: Scotiabank and the Next
+                    Generation Investor
+ This case was written for CaseHacks by Tarundeep Kaur, VP of Education, with input from Duncan
+    Lu and the Scotiabank Digital Banking team. It was prepared for academic and competition
+                                         purposes only.
+
+
+In the spring of 2026, Ahmad Wali, a product analyst on Scotiabank's Digital Banking team, sat down to
+prepare a briefing for his VP. The prompt was straightforward: Scotiabank's 18-to-34 demographic was
+growing in deposit accounts, but investment product adoption within the same cohort had not kept pace.
+Meanwhile, Wealthsimple, a Toronto-based fintech founded just over a decade ago, had grown to serve
+more than 3 million Canadians and hold over $100+ billion in assets under management 3, built almost
+entirely on the demographic Scotiabank was struggling to convert from depositors into investors.
+The question on the table was why a bank with nearly two centuries of history, a trusted national brand, a
+full product suite, and an existing relationship with millions of young Canadians was losing the investment
+conversation to platforms that had none of those advantages.
+The data made the gap hard to ignore. A 2024 TD Bank Group survey found that a third of Canadians have
+never invested at all,1 and CIRO's inaugural 2024 Investor Survey found that 43% of younger Canadians feel
+uncertain about where to even begin.2 A 2025 study by Broadridge Financial Solutions found that among
+Gen Z investors, social media and financial influencers are now more popular sources of financial information
+than financial advisors, and one-third of Gen Z investors have never worked with an advisor at all."4 And with
+CPA Canada projecting that $1 trillion in wealth will transfer from Baby Boomers to younger generations
+between 2023 and 2026,5 the institutions that build investment relationships with younger Canadians now
+will be best positioned to manage that capital for decades to come.
+Scotiabank: Company Overview
+The Bank of Nova Scotia, operating as Scotiabank, was founded in Halifax in 1832 and is one of Canada's
+oldest and largest financial institutions.6 Headquartered in Toronto, it is the third-largest Canadian bank by
+total assets and a permanent member of the Big Six, the six institutions that collectively hold the majority of
+Canada's banking assets.19
+As of its fiscal year ending October 31, 2025, Scotiabank reported total assets of $1.5 trillion, reported net
+income of $7.8 billion ($9.5 billion adjusted), a Common Equity Tier 1 (CET1) ratio of 13.2%, and
+approximately 86,431 full-time equivalent employees across its global operations.6,7 The bank maintains
+branches and offices worldwide and serves customers across Canada, the United States, Latin America, the
+Caribbean, and select international markets.⁷
+Scotiabank's Global Wealth Management division reported assets under management (AUM) of $432 billion
+and assets under administration (AUA) of $868 billion as of fiscal year-end 2025, representing 16% AUM
+growth year-over-year, driven by market appreciation and higher net sales.6,7 The division generated
+adjusted earnings of $1.706 billion in 2025, up 17% year-over-year.6,7
+
+
+                                                                                                       2
+Scotiabank's GIC product range includes Non-Redeemable GICs (terms of 30 days to 5 years, minimum
+investment of $500 for most term structures), Cashable GICs (1-year term, redeemable anytime after 30
+days, minimum $500), Personal Redeemable GICs (partially or fully redeemable before maturity at early
+redemption rates), and Market-Linked GICs (returns tied to a market index such as the S&P/TSX 60 or S&P
+500, with a guaranteed minimum return).14, 15, 16
+Scotia Wealth Management
+Scotia Wealth Management encompasses Scotiabank's full-service wealth advisory and portfolio
+management services for higher-net-worth individuals. Operating through the ScotiaMcLeod and Scotia
+Private Investment Counsel divisions, both part of Scotia Capital Inc., the division offers discretionary
+portfolio management, estate planning, tax advisory, and philanthropic giving strategies.17 ScotiaMcLeod
+advisors provide personalized investment counsel and manage client portfolios on a discretionary basis,
+drawing on the resources of Scotia Global Asset Management.17 Scotia Wealth Management is primarily
+oriented toward clients with significant existing assets; it is not the bank's primary entry point for younger or
+first-time investors.17
+Registered Account Structures
+Across all of the above product lines, Scotiabank supports the full range of Canadian registered investment
+account types, including the Tax-Free Savings Account (TFSA), Registered Retirement Savings Plan (RRSP),
+First Home Savings Account (FHSA), Registered Education Savings Plan (RESP), Registered Retirement
+Income Fund (RRIF), Registered Disability Savings Plan (RDSP), and non-registered investment accounts.8,14
+The Market Opportunity
+Canada is in the midst of the largest intergenerational wealth transfer in its history. The Chartered
+Professional Accountants of Canada projected that $1 trillion in wealth would move from Canadian Baby
+Boomers to their Millennial and Generation X heirs between 2023 and 2026.5 The financial institutions that
+build investment relationships with younger Canadians now are positioning themselves to manage and grow
+a significant share of that capital for the decades that follow.
+The urgency is compounded by what research consistently shows about the persistence of financial
+relationships: customers who begin investing with a particular institution tend to remain with that institution
+as their portfolio grows. First-mover advantage in investment relationships is durable. Acquiring a young
+investor at the beginning of their financial journey has materially different long-term economics than
+acquiring the same customer a decade later.
+A 2024 survey by TD Bank Group found that only 58% of Canadians make investments at least once a year,
+and that a third of Canadians (~34%) have never invested at all.1 Among younger Canadians, the barriers to
+beginning are well-documented: nearly half of the same survey's respondents said they did not feel confident
+in their investment knowledge, and 30% reported having no investment plan.1 Research from the Canadian
+Investment Regulatory Organization (CIRO) found that 43% of younger Canadians feel uncertain about
+where to begin when it comes to investing.2
+The Competitive Landscape
+Scotiabank competes for the investment assets of younger Canadians across two broad categories of
+institutions: the other members of the Big Six, each of which offers its own retail investment products, and a
+growing cohort of fintech and robo-advisor platforms that have built their products specifically around the
+needs of first-time investors. The distinction between these two categories matters: the Big Six compete on
+breadth, brand trust, and integration with full banking relationships; fintechs compete on simplicity, cost, and
+experience design.                                                                                       3
+Scotiabank trades on both the Toronto Stock Exchange (TSX: BNS) and the New York Stock Exchange (NYSE:
+BNS). Deposits are protected through the Canada Deposit Insurance Corporation (CDIC), and the bank
+operates under the regulatory oversight of the Office of the Superintendent of Financial Institutions (OSFI).
+Scotiabank's Strategic Priorities
+Scotiabank's vision is to be its clients' most trusted financial partner, guided by a simple purpose: "for every
+future." The bank's current strategy, launched at Investor Day in December 2023, is built around four pillars
+that reflect a deliberate shift in how Scotiabank thinks about growth.6
+    Grow and scale in priority markets: deploying capital to priority businesses in Canada, the United States,
+    and Mexico, strengthening North American corridor connectivity to accelerate growth.
+    Earn primary client relationships: driving value over volume by building deeper, long-term relationships
+    with clients and bringing the full strength of the bank to meet their evolving needs.
+    Make it easy to do business with us: simplifying processes, driving operational excellence, and investing
+    in digital capabilities so clients can bank with Scotiabank wherever and however they choose.
+    Win as one team: investing in people and communities, fostering an inclusive, high-performance culture.
+Scotiabank's Retail Investment Products
+Scotiabank offers Canadian retail investors access to a suite of investment products spanning guided
+managed portfolios, self-directed brokerage, fixed-income instruments, and full-service wealth advisory. The
+primary retail-facing products are described below.
+Scotia Smart Investor
+Scotia Smart Investor is Scotiabank's digital investment platform, designed to guide customers through the
+process of setting, tracking, and adjusting financial goals.8 The platform is available to existing Scotiabank
+clients through online banking and allows users to link existing accounts or input details of external accounts
+to build a consolidated financial picture. The onboarding process involves a short questionnaire covering the
+user's savings goals, risk tolerance, and time horizon, after which the platform recommends an appropriate
+investment account type, such as a TFSA, RRSP, or FHSA, along with suitable products.8
+Through Scotia Smart Investor, customers can access two primary managed portfolio solutions: Scotia
+Essentials Portfolios and Scotia Selected Portfolios.9 The platform reached a milestone of over one million
+financial goals created by clients since its launch, as of December 2024.8
+Scotia iTRADE
+Scotia iTRADE is Scotiabank's self-directed online brokerage platform, offering investors direct access to a
+broad range of securities, including Canadian and U.S. equities, ETFs, options, bonds, and GICs.11 The
+platform is designed for investors who prefer to research and manage their own portfolios without the use of
+an advisor.
+Scotia iTRADE offers commission-free trading on over 200 ETFs, provided the ETF is held for at least one full
+business day.12 The platform supports TFSA, RRSP, RESP, FHSA, RRIF, and non-registered accounts, and is
+accessible through both desktop and a mobile application.11
+Guaranteed Investment Certificates (GICs)
+Scotiabank offers several categories of Guaranteed Investment Certificates (GICs), which are secure, low-risk
+investments that guarantee the return of the investor's principal along with a fixed or variable rate of interest
+over a defined term.14 GICs are available in non-registered accounts and within registered plans, including
+TFSAs, RRSPs, RRIFs, RESPs, and RDSPs. All GICs with terms to maturity are eligible for CDIC insurance,
+subject to applicable limits.14
+                                                                                                         4
+Fintech and Robo-Advisor Platforms
+Beyond the Big Six, a set of technology-first platforms has gained significant market share among younger
+Canadian investors by offering lower fees, simpler onboarding, and mobile-first experiences that traditional
+banks have been slower to replicate.3
+Wealthsimple
+Founded in 2014, Wealthsimple has grown to serve more than 3 million Canadians and manage more than
+$50 billion in assets across its platform as of the end of 2024.3 Its core managed investing product charges a
+management fee of 0.50% annually for accounts under $100,000, dropping to 0.40% above that threshold,
+with no minimum investment required. The platform also offers self-directed trading (Wealthsimple Trade)
+with $0 commissions on Canadian stocks and ETFs, and a cash account (Wealthsimple Cash) that functions
+as an interest-earning chequing account. Wealthsimple's defining characteristic is its onboarding and
+interface design: the platform uses plain language throughout, provides the option to invest into pre-defined
+portfolios based on the user’s risk tolerance25, and has invested heavily in financial education content
+through its magazine, newsletter, and social media presence.3
+Questrade / Questwealth
+Questrade is Canada's largest independent online brokerage, offering self-directed trading with
+commission-free ETF purchases (sells are $4.95 to $9.95) and a robo-advisor service called Questwealth
+Portfolios.18 Questwealth charges management fees of 0.20% to 0.25%, among the lowest in the Canadian
+market, and uses low-cost index ETFs from iShares, BMO, and Global X. The minimum to open a
+Questwealth account is $250. Questrade positions itself as the cost-conscious alternative for investors who
+are financially literate enough to prioritize fees, and has found particular traction among Canadians in their
+late twenties and thirties who are actively seeking to minimize investment costs.18
+The Customer: Young Canadian Investors
+An extensive body of research exists on the financial attitudes and behaviours of younger Canadians. The
+findings paint an intricate picture: this cohort of Canadian’s hold several different competing attitudes
+toward money and investing, which do not resolve neatly into a single strategic prescription.
+Intention and Action
+The relationship between awareness and action is one of the most consistent findings across recent
+Canadian financial research. A 2024 TD Bank Group survey of 2,695 Canadians found that 45% did not feel
+confident in their investment knowledge, and 30% had no investment plan at all.1 Among those without a
+plan, 20% said they simply did not know where to begin, not that they lacked the funds.1
+The CIRO's inaugural 2024 Investor Survey reinforced this picture: 61% of non-investors cited a lack of funds
+as their primary barrier, while 43% of younger Canadians specifically reported feeling uncertain about
+where to start.2 Separately, an Edward Jones survey of 1,516 Canadians conducted in late 2024 found that
+84% believed that learning about money management in school would have helped them manage their
+personal finances with less stress today, and 64% said they had not received any financial literacy
+education during their schooling.20
+A follow-up Edward Jones survey conducted in February 2026 found that 84% of Canadians aged 18–34
+report negative emotions about RRSP contributions, the highest rate of any age group, and that only 36% of
+adults aged 18–34 feel confident about basic retirement savings mechanics, compared to 69% of those
+aged 55 and older.26
+
+                                                                                                       5
+Taken together, these findings point consistently to the same underlying dynamic: the barrier to first
+investment among younger Canadians is more often confidence and clarity than it is capital. Many have
+money they could invest. But they are missing the important part of the puzzle: knowledge on whether they
+should, and how.
+Trust and Platform Loyalty
+Having a young Canadian's chequing account does not mean having their investment business. For this
+cohort, every product relationship starts from zero. The Canadian Bankers Association's 2024 How
+Canadians Bank study found that 70% of Canadians used a mobile app for banking in 2024, up from 65% in
+2021, and that young adults aged 18–29 are more likely to be app-centric than any other age group.22 The
+same study found that the shift from online to app-based banking is accelerating, with 41% of Canadians
+expecting to increase their use of mobile banking apps in the next five years.22
+This digital fluency does not translate into institutional loyalty. A young customer may hold a chequing
+account at Scotiabank, invest through Wealthsimple, and use a separate budgeting application. The 2024
+CSA Investor Index found that the sharpest drop in financial advisor use between 2020 and 2024 occurred
+among investors under 45 and those with portfolios under $100,000, precisely the demographic that
+traditional banks need to capture at the start of their investment journey.4
+Social Influence and Financial Information
+The sources younger Canadians turn to for financial information have shifted significantly. The 2024 CSA
+Investor Index found that 53% of investors now use social media for investment information, an 18-point
+increase since 2020.4 Among investors aged 18 to 24, the figure reaches 82%, with YouTube, Instagram,
+and TikTok being the most common platforms.4 A November 2025 survey by the Financial Consumer
+Agency of Canada found that Canadians aged 18–34 are twice as likely as older Canadians to seek
+financial advice on social media, are the least likely demographic to consult a professional advisor, and are
+most likely to turn to family and friends for financial guidance.23
+At the same time, concern about the reliability of informal financial advice is rising. CIRO's 2024 survey
+found that while 38% of Canadians turn to family and friends for financial advice, many younger investors
+express anxiety about acting on advice from unqualified sources.2 The institution that can offer authoritative,
+accessible, and plain-language financial guidance, rather than simply financial products, has a meaningful
+opportunity to capture trust at a formative moment in younger Canadians' financial lives.
+The Intergenerational Wealth Transfer Context
+The stakes of this dynamic extend beyond individual product adoption. TD Asset Management has noted
+that Baby Boomers currently control approximately 50% of Canada's total wealth, while Millennials, despite
+making up the largest share of the labour force, hold approximately 10%.24 As the $1 trillion
+intergenerational transfer projected by CPA Canada unfolds,5 the institutions already managing investment
+relationships with younger Canadians will be best positioned to retain the assets flowing to them. Those
+who have not yet established those relationships face a structural disadvantage that compounds over time.
+The Situation
+Young Canadians are investing. The data on Wealthsimple's user growth, Questwealth's low-cost traction,
+and the third of Canadians who have never made a single investment all point to the same underlying
+reality: demand for accessible investing exists, and it is being captured by platforms other than Scotiabank.
+
+
+
+                                                                                                        6
+Scotiabank brings to this challenge assets that no fintech platform has replicated: 190 years of institutional
+trust, CDIC deposit protection, a full suite of registered account structures, a national branch and advisor
+network, and the deep banking relationships that come from being the primary financial institution for
+millions of Canadian households. It also enters this challenge with a defined strategy: one built around four
+pillars that shape where the bank is investing, how it thinks about growth, and what it means to earn a
+client relationship.
+
+Any solution must be compatible with Scotiabank's regulatory environment and existing product
+infrastructure. It must be viable within an 18-month implementation horizon. And it must move the needle
+not just on account openings but also on sustained investment engagement that creates long-term client
+value.
+
+
+
+
+                                                                                                        7
+                                                  Exhibits
+Exhibit A: Selected Data
+
+Key figures from publicly available sources providing quantitative context on Canadian investing
+behaviour, digital banking adoption, and market opportunity.
+
+
+   Metric                                                                         Figure
+
+   Canadians who have never invested (all ages, 2024) 1                           34%
+
+   Canadians making investments at least once per year (2024) 1                   58%
+
+   Canadians without an investment plan (2024) 1                                  30%
+
+   Canadians not confident in their investment knowledge (2024) 1                 45%
+
+   Younger Canadians uncertain about where to begin investing 2                   43%
+
+   Non-investors citing lack of funds as primary barrier 2                        61%
+
+   Canadians who believe financial education in school would have helped 20       84%
+
+   Canadians who did not receive financial literacy education in school 20        64%
+
+   Canadians aged 18–34 reporting negative emotions about RRSP contributions 21   84%
+
+   Canadians aged 18–34 confident in basic retirement savings mechanics 21        36%
+
+   Canadians who used a mobile banking app in 2024 (up from 65% in 2021) 22       70%
+
+   Investors using social media for investment information (2024) 4               53%
+
+   Investors aged 18–24 using social media for investment information 4           82%
+
+   Canadian intergenerational wealth transfer (2023–2026, CPA Canada) 5           >$1 trillion
+
+   Baby Boomer share of Canada's total wealth 24                                  ~50%
+
+   Millennial share of Canada's total wealth 24                                   ~10%
+
+   Wealthsimple Canadian clients (end of 2024) 3                                  3 million+
+
+   Wealthsimple assets under administration (end of 2024) 3                       >$50 billion
+
+   Scotiabank Global Wealth AUM (fiscal year-end 2025) 6, 7                       $432 billion
+
+   Scotiabank Global Wealth AUA (fiscal year-end 2025) 6, 7                       $868 billion
+
+
+
+
+                                                                                                   8
+Exhibit B: Young Investor Sentiment Snapshot
+
+Selected findings from third-party surveys on the financial attitudes, barriers, and behaviours of younger
+Canadians, with source attribution.
+
+
+                                       Finding                                              Source
+
+   34% of Canadians have never invested; only 58% invest at least once per year     TD/Maru Survey, 2024 1
+
+   45% of Canadians not confident in their investment knowledge                     TD/Maru Survey, 2024 1
+
+   30% of Canadians have no investment plan; 20% don't know where to begin          TD/Maru Survey, 2024 1
+
+                                                                                    CIRO Investor Survey,
+   61% of non-investors cite lack of funds as primary barrier to investing
+                                                                                    2024 2
+
+                                                                                    CIRO Investor Survey,
+   43% of younger Canadians feel uncertain about where to begin investing
+                                                                                    2024 2
+
+   84% of Canadians believe financial education in school would have reduced        Edward Jones/Pollara,
+   financial stress                                                                 2024 20
+
+                                                                                    Edward Jones/Pollara,
+   64% of Canadians say they received no financial literacy education in school
+                                                                                    2024 20
+
+   70% of Canadians used a mobile banking app in 2024, up from 65% in 2021;         Canadian Bankers
+   young adults 18–29 are the most app-centric group                                Association, 2024 22
+
+   53% of investors use social media for investment information — up 18 pts since   CSA Investor Index,
+   2020                                                                             2024 4
+
+                                                                                    CSA Investor Index,
+   82% of investors aged 18–24 use social media for investment information
+                                                                                    2024 4
+
+   Sharpest drop in financial advisor use (2020–2024): investors under 45,          CSA Investor Index,
+   portfolios <$100K                                                                2024 4
+
+                                                                                    TD Asset Management
+   Baby Boomers hold ~50% of Canada's total wealth; Millennials hold ~10%
+                                                                                    24
+
+   $1 trillion in wealth to transfer from Boomers to younger generations (2023–
+                                                                                    CPA Canada, 2023 5
+   2026)
+
+
+
+
+                                                                                                           9
+                                           Sources
+ 1. TD Bank Group Saving and Investing Survey, November 2024. Conducted by Maru/Blue, n=2,695
+    Canadian adults. https://stories.td.com/ca/en/news/2024-11-14-only-49-25-of-canadians-believe-
+    they-are-saving-enough-to-reac
+ 2. CIRO Inaugural Investor Survey, Financial Literacy Month 2024. Canadian Investment Regulatory
+    Organization. https://www.ciro.ca/money-your-mind-see-how-canadians-are-navigating-financial-
+    confidence-and-challenges-financial
+ 3. Wealthsimple. Product Suite Delivers in 2024. December 18, 2024. https://www.wealthsimple.com/en-
+    ca/invest/advice
+ 4. Broadridge Financial Solutions. Canadian Investors Rethink Spending and Investment Decisions Amid
+    Global Trade Wars. May 2025. https://www.broadridge.com/press-release/2025/canadian-investors-
+    rethink-spending-investments-broadridge-survey
+ 5. CBC News / CPA Canada. Wealth Transfer Inequality — $1 Trillion Question.
+    https://www.cbc.ca/news/canada/saskatchewan/wealth-transfer-inequality-1trillion-1.7462837
+ 6. Scotiabank 2025 Annual Report. The Bank of Nova Scotia.
+    https://www.scotiabank.com/content/dam/scotiabank/corporate/quarterly-
+    reports/2025/q4/Annual_Report_2025_EN.pdf
+ 7. Scotiabank Q4 2025 and Fiscal Year 2025 Results. SEC Form 6-K.
+    https://www.sec.gov/Archives/edgar/data/0000009631/000119312525304589/d849316dex991.htm
+ 8. Scotia Smart Investor. Scotiabank Canada.
+    https://www.scotiabank.com/ca/en/personal/investing/scotia-smart-investor.html
+ 9. Scotia Essentials Portfolios. ScotiaFunds. https://www.scotiafunds.com/en/home/portfolio-
+    solutions/scotia-essentials-portfolios.html
+10. Scotia Selected Portfolios. ScotiaFunds. https://www.scotiafunds.com/en/home/portfolio-
+    solutions/scotia-selected-portfolios.html
+11. Competitive Pricing. Scotia iTRADE. https://www.scotiaitrade.com/en/home/pricing.html
+12. Commission-Free ETFs. Scotia iTRADE. https://www.scotiaitrade.com/en/home/investment-types-
+    products/commission-free-etf.html
+13. Scotia iTRADE Review 2026. Million Dollar Journey. https://milliondollarjourney.com/scotia-itrade-
+    online-brokerage-review.htm
+14. Guaranteed Investment Certificates. Scotiabank Canada.
+    https://www.scotiabank.com/ca/en/personal/investing/guaranteed-investment-certificates.html
+15. GIC Interest Rates. Scotiabank Canada. https://www.scotiabank.com/ca/en/personal/rates-prices/gic-
+    rates.html
+16. Best GIC Rates in Canada. WOWA.ca. https://wowa.ca/gic-rates
+17. About Scotia Global Asset Management. https://www.scotiagam.com/en/home/about-us.html
+18. Best Robo-Advisors in Canada for 2026. MoneySense.
+    https://www.moneysense.ca/save/investing/best-robo-advisors-in-canada/
+19. CIBC Investor's Edge Review 2026. Million Dollar Journey. https://milliondollarjourney.com/cibc-
+    investors-edge-review-2.htm
+
+
+
+
+                                                                                                10
+20. Edward Jones / Pollara Strategic Insights Financial Literacy Survey, October 2024. n=1,516 Canadians
+    aged 18+. https://www.edwardjones.ca/ca-en/why-edward-jones/news-media/press-releases/most-
+    canadians-feel-they-lack-financial-education-and-confidence-managing-money
+21. Edward Jones Canada / Pollara Strategic Insights RRSP Survey, February 2026. n=1,533 Canadian
+    adults. https://www.edwardjones.ca/ca-en/why-edward-jones/news-media/press-
+    releases/canadians-feel-poorly-about-retirement-planning
+22. Canadian Bankers Association. How Canadians Bank 2024. Survey of 4,000 Canadian adults,
+    January–February 2024. https://www.newswire.ca/news-releases/use-of-digital-banking-has-
+    become-habitual-post-pandemic-cba-survey-869452120.html
+23. Financial Consumer Agency of Canada. Survey Findings: How Canadians Seek Financial Advice.
+    November 2025. https://www.canada.ca/en/financial-consumer-agency/news/2025/11/survey-
+    findings-offer-glimpse-into-how-canadians-seek-financial-advice.html
+24. TD Asset Management. Boomers, Millennials and the $1 Trillion Question.
+    https://www.td.com/ca/en/asset-management/insights/blog/boomers-millennials
+25. Wealthsimple. Classic Portfolios. https://www.wealthsimple.com/en-ca/invest/classic-portfolios
+
+
+
+
+                                                                                                 11
+               [case]Hacks Submission Guidelines
+Please read the guidelines carefully so your team knows what to submit, how to submit it, and what
+to expect on presentation day.
+
+Key Information
+   Case Release: May 23rd, 2026
+   Submission Deadline: May 24th 2026 @ 10 AM
+   Submission Portal: https://casehacks-2026.devpost.com/
+
+All submissions must be uploaded through the official submission portal by the deadline. Late
+submissions may be penalized or, depending on the situation, may not be accepted.
+
+Required Deliverables
+Teams must submit two deliverables:
+
+ 1. Slide Deck – Your slide deck should clearly explain your team’s solution and the thinking behind
+    it, not simply summarize the case. Instead, tell a clear story: what problem you identified, why it
+    matters, who it affects, and how your solution helps. Your slides should include screenshots of
+    your prototype so judges can understand how your idea would look or work in practice.
+
+ 2. Prototype Screenshots or Quick Video – Teams must submit screenshots (separately in
+    devpost other than in slides) showing the key screens or user flow of their prototype. A short
+    video walkthrough is optional, but screenshots are mandatory. The prototype does not need to
+    be a fully built app. It just needs to make your idea feel real and show that your solution is
+    feasible. Mockups made in Google Stitch, Codex, Lovable, Figma, or similar tools are completely
+    acceptable.
+
+File Naming Format
+Please name your files using the following format:
+
+TeamName_SlideDeck
+TeamName_Prototype
+
+Example:
+caseHacks_SlideDeck
+caseHacks_Prototype
+
+
+
+                                                                                                 12
+                [case]Hacks Submission Guidelines
+Presentation Day
+Each team will have 10 minutes to present, followed by a 5-minute Q&A with the judges. The 10-
+minute limit will be strictly followed, and teams that go over time will be cut off.
+
+Teams should arrive at least 15 minutes before their scheduled slot to check in and set up.
+
+Please bring your own laptop. HDMI and USB-C adapters will be available. Prototype demos
+should be opened and ready before your pitch begins so setup does not take away from your
+presentation time.
+
+Helpful Tips
+      ★ A strong pitch does not need to be complicated. Focus on telling a clear story about the
+        problem, your solution, and why it matters.
+      ★ Your prototype does not need to be perfect or fully functional. It just needs to show the
+        main idea and help judges understand how the solution would work.
+      ★ Think like a product manager, not a full development team. We are more interested in
+          your reasoning, user experience, feasibility, and impact than whether every button works
+          perfectly.
+      ★   Use your 10 minutes wisely. Focus on the most important parts of your solution instead of
+          trying to explain every small detail.
+      ★   The Q&A is not meant to trick you. It is a chance to show that your team understands your
+          idea, your assumptions, and your numbers.
+      ★   Most importantly, have fun with it. Hackathons are about creativity, problem-solving, and
+          building something cool under pressure.
+
+If you have any questions or concerns, feel free to reach out on discord and someone on the team
+will reach out and try to trouble shoot!
+
+
+
+                  GOOD LUCK! AND HAVE FUN!!
+
+
+
+
+                                                                                              13
+
